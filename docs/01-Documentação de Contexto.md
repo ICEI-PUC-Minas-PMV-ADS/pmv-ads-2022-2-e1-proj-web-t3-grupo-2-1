@@ -1,13 +1,13 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+De acordo com o SEBRAE SC “A gestão de pequenos negócios é um desafio que, se não for vencido, pode levar as empresas à falência." (GESTÃO, 2019). Gerir uma empresa seja ela de grande ou pequeno porte requer um preparo enorme do gestor, mas com o avanço das tecnologias o processo de gestão torna-se mais fácil e intuitivo.
+
+Em uma pesquisa realizada pelo SEBRAE SP em 2014, através de um estudo realizado com pequenas empresas, chegou-se à conclusão de que são três os principais fatores que levam à falência de pequenos negócios: planejamento prévio, gestão empresarial e comportamento do empreendedor. A tecnologia vem como uma grande aliada na gestão dos negócios, uma empresa que acompanha as tecnologias do seu segmento e se mantém atualizada nessas tecnologias têm grandes chances de prosperar no mercado.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O que se busca resolver com esse projeto é a melhoria da gestão de um consultório de psicologia, visando sanar dois problemas: Gerenciamento de dados de clientes e a organização financeira.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -16,26 +16,29 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é a criação de uma solução simples para que pequenos consultórios de psicologia possam organizar e gerir bem os seus modelos de negócios.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar:
+* Fornecer funcionalidades que permitam a catalogação de todos os seus clientes e gerenciar a suas informações;
+* Fornecer funcionalidades que permitam controlar o fluxo de caixa.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+De acordo com Lemes Junior e Barbosa (2019,p.139), a existência de controles financeiros são essenciais para o sucesso de um empreendimento. As soluções desenvolvidas para os pequenos negócios contribuem para sua longa vida, aumentando os índices de movimentação na economia.
+Atualmente, há uma dificuldade em gerir informações financeiras por parte de alguns microempreendedores autônomos. De acordo com o site Betalabs (2021), a gestão de clientes, assim como o controle financeiro, é de vital importância para um negócio, pois além de conhecer o perfil dos seus clientes, pode-se criar estratégias de captação e fidelização.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Assim, torna-se necessária a existência de uma aplicação que gerencie esses dados, indispensáveis para a saúde e crescimento de um negócio. Além do cadastro dos clientes para controle e consulta, o projeto visa a geração de relatórios com dados como a média das idades e o sexo dos clientes, que podem ser utilizados posteriormente em campanhas de marketing (visando a captação de novos clientes).
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público alvo deste trabalho são administradores de pequenos consultórios de psicologia que buscam soluções para organizar e gerenciar seus empreendimentos.
+
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
