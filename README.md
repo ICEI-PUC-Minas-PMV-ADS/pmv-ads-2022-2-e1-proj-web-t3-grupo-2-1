@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# SOLUÇÃO PARA GESTÃO DE CONSULTÓRIO DE PSICOLOGIA
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO DE DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`2022/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolvimento de uma solução simples para que pequenos consultórios de psicologia possam organizar e gerir bem os seus modelos de negócios.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriana Aparecida Lopes Rodrigues
+* Eryc Lisboa Silva
+* Júlia Caroline M. Ambrosio
+* Marlon César A. dos Santos
+* Olivia Ferreira da Silva
+* Pablo M. Batista Alves 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
