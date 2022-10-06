@@ -39,9 +39,6 @@ Assim, torna-se necessária a existência de uma aplicação que gerencie esses 
 
 O público alvo deste trabalho são administradores de pequenos consultórios de psicologia que buscam soluções para organizar e gerenciar seus empreendimentos.
 
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
