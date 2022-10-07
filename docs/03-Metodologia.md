@@ -39,10 +39,10 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
--`Scrum Master`: Marlon César A. dos Santos
--`Product Owner`: Pablo M. Batista Alves
--`Equipe de Desenvolvimento`: Eryc Lisboa Silva e Adriana Aparecida Lopes Rodrigues
--`Equipe de Design`: Olivia Ferreira da Silva e Júlia Caroline M. Ambrosio
+- `Scrum Master`: Marlon César A. dos Santos
+- `Product Owner`: Pablo M. Batista Alves
+- `Equipe de Desenvolvimento`: Eryc Lisboa Silva e Adriana Aparecida Lopes Rodrigues
+- `Equipe de Design`: Olivia Ferreira da Silva e Júlia Caroline M. Ambrosio
 
 
 > **Links Úteis**:
