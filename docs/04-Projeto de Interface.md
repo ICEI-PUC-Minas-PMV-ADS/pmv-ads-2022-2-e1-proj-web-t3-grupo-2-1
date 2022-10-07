@@ -73,7 +73,7 @@ Tela - Financeiro
 A tela de financeiro apresenta os dados financeiros do negócio, sua subcategoria “inserir” permite informar dados de receitas e despesas. A tela apresenta também o botão de configurações, possibilitando a alteração de senha e o logout do site.
 ![image](https://user-images.githubusercontent.com/112219216/194443645-6facbb1f-d821-4c39-bf94-e72c62e88f09.png)
 
-Tela - Inserir
+ `Tela - Inserir`
 
 A tela “inserir” permite a inserção de dados referentes à receitas e despesas, com sua respectiva forma de pagamento. A tela apresenta também o botão de configurações, possibilitando a alteração de senha e o logout do site.
 ![image](https://user-images.githubusercontent.com/112219216/194443742-af688828-f2a0-4fa5-a7df-cce2da8e0b1a.png)
