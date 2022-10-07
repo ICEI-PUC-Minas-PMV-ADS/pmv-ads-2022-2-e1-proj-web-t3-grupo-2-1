@@ -39,7 +39,8 @@ etiquetas:
 
 Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
 
-O planejamento das tarefas está dividido no [Trello](https://trello.com/b/wmzNgJt4/projeto-consult%C3%B3rio-turma3-grupo2/) da seguinte forma
+O planejamento das tarefas está dividido no [Trello](https://trello.com/b/wmzNgJt4/projeto-consult%C3%B3rio-turma3-grupo2/) da seguinte forma:
+
 ![Trello](https://user-images.githubusercontent.com/111783703/194444029-db7ed15e-0359-4cc5-b99f-7f6a908112d4.PNG)
 
 - `Recursos` Esta lista mantém o template de tarefas recorrentes com as configurações padronizadas que todos devem seguir.
