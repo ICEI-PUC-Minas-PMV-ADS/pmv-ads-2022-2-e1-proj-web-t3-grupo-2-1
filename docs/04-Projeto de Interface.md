@@ -31,6 +31,7 @@ A tela de home-page mostra a página de login e apresenta três elementos distin
 `Tela - Esqueci minha senha`
 
 A tela de esqueci minha senha possibilita a recuperação de credenciais para quem esqueceu a senha.
+
 ![image](https://user-images.githubusercontent.com/112219216/194443017-a6d1c5e1-9cf9-4464-ba69-553ac3b27151.png)
 
 Tela - Redefinir a senha
@@ -41,7 +42,7 @@ A tela de redefinição de senha possibilita a recuperação de credenciais para
 
 Tela - Cadastro
 
-A tela de cadastro apresenta informações que as pessoas/pequenas empresas devem preencher para finalizar um novo cadastro, sendo eles: nome, cpf ou cnpj, e-mail, endereço e senha.
+A tela de cadastro apresenta informações que as pessoas/pequenas empresas devem preencher para finalizar um novo cadastro, sendo eles: Nome, CPF ou CNPJ, E-MAIL, endereço e senha.
 
 ![image](https://user-images.githubusercontent.com/112219216/194443158-88c89177-874a-437d-aef5-a5b2ee3a51ca.png)
 
