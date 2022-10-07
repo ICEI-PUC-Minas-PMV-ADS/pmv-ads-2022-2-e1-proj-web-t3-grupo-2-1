@@ -34,14 +34,13 @@ Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo n
 > - [Whimsical](https://whimsical.com/)
 
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. O usuário deverá acessar o navegado, digitar a URLL para acesso a plataforma e assim
-que o usuário entra na plataforma, ele é apresentado à tela de login. Dentro da tela de login, o usuário deverá se autenticar na plataforma digitando o seu usúario e senha.
+A imagem a seguir ilustra a o fluxo do usuário em nossa solução. O usuário deverá acessar o navegador, digitar a URLL para acesso a plataforma, após o acesso na plataforma, é apresentado à tela de login. Dentro da tela de login, o usuário deverá se autenticar na plataforma digitando o seu usúario e senha.
 
 Após realizar o acesso, o usuário será redirecionado para a tela inicial onde será possível escolher entre o menu de clientes, menu financeiro e o perfil do usuário.
 
-Caso ele opte por seguir pelo menu de clientes, será aberta uma nova janela e o usuário poderá cadastra novos clientes preenchendo os campos conforme solicitado. 
+Caso ele opte por seguir pelo menu de clientes, será aberta uma nova janela onde o usuário pode realizar o cadastra novos clientes preenchendo os campos conforme solicitado. 
 
-Caso opte pelo menu financeiro, será aberto uma nova janela onde será listado todos os clientes cadastrado, e uma vez listado os cliente é possível editar as informações cadastrada dentro de cada cliente.
+Caso opte pelo menu financeiro, será aberto uma nova janela onde é listado todos os clientes cadastrado, e uma vez listado os cliente é possível editar as informações cadastrada dentro de cada cliente.
 
 Caso ele opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais
 
