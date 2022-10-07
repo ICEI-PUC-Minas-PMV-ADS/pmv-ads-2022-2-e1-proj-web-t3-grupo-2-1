@@ -54,6 +54,8 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 `Opção`Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
 
+![Trello](https://user-images.githubusercontent.com/111783703/194444029-db7ed15e-0359-4cc5-b99f-7f6a908112d4.PNG)
+
 - `Recursos`
 - `Backlog`
 - `To do`
@@ -61,7 +63,9 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 - `Test`
 - `Done`
 - `Locked`
- ![Trello](https://user-images.githubusercontent.com/111783703/194444029-db7ed15e-0359-4cc5-b99f-7f6a908112d4.PNG)
+
+
+
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
