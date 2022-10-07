@@ -11,16 +11,13 @@ Figura 2 - Fluxo de telas do usuário
 ![image](https://user-images.githubusercontent.com/112219216/194439906-3e5c3cc7-eb34-481c-b9ae-5114dfcb293e.png)
 
 ## Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 2 . Nesta estrutura, existe um elemento, descrito a seguir:
+Cabeçalho: local onde são dispostos elementos fixos de identidade: logo.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Figura 3 - Estrutura padrão do site
+![image](https://user-images.githubusercontent.com/112219216/194440632-e6cd87b9-9376-4f6a-b152-af73f6c9a296.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+
+
+
