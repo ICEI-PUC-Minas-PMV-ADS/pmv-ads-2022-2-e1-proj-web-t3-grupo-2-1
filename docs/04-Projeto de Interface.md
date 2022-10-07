@@ -7,7 +7,9 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 ## User Flow
 A figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema. Para visualizar o fluxo de usuário interativo, acesse o miro app. Na sequência, cada uma das telas do fluxo está detalhada na seção de Wireframes.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+![Exemplo de UserFlow]
+![image](https://user-images.githubusercontent.com/112219216/194439906-3e5c3cc7-eb34-481c-b9ae-5114dfcb293e.png)
+
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
