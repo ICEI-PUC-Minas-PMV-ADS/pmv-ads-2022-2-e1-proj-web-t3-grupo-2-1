@@ -18,6 +18,16 @@ Figura 3 - Estrutura padrão do site
 
 ![image](https://user-images.githubusercontent.com/112219216/194440632-e6cd87b9-9376-4f6a-b152-af73f6c9a296.png)
 
+Tela - Home-Page
+A tela de home-page mostra a página de login e apresenta três elementos distintos:
+
+Login, parte para solicitar CNPJ e senha para login;
+Esqueci minha senha, para recuperação da senha;
+Cadastro, para quem deseja realizar um novo cadastro.
+
+Figura 4 - Tela de home-page
+![image](https://user-images.githubusercontent.com/112219216/194440949-31710de6-0361-406c-8d40-2b5261e388bd.png)
+
 
 
 
