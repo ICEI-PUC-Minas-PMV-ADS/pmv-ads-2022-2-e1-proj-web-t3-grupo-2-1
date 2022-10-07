@@ -12,12 +12,11 @@ Larrissa dos Santos tem 35 anos, psicóloga e empreendedora na área da saúde. 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Larissa dos Santos  | Cadastrar clientes                 | Para ter acesso e controle de todos os dados em uma única plataforma.| 
-|Larissa dos Santos  | Gerenciar dados                    | Para trabalhar estratégias direcionadas para cada perfil de clientes.|
-|Larissa dos Santos  | Controle de fluxo de caixa         | Para poder controlar as receitas e as despesas do empreendimento, além de acompanhar a taxa de                                                                 inadimplência.                                                       |                                                             
-
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`       |                     PARA ... `MOTIVO/VALOR`                          |
+|--------------------------|------------------------------------|----------------------------------------------------------------------|
+|Larissa dos Santos        | Cadastrar clientes                 | Para ter acesso e controle de todos os dados em uma única plataforma.| 
+|Larissa dos Santos        | Gerenciar dados                    | Para trabalhar estratégias direcionadas para cada perfil de clientes.|
+|Larissa dos Santos        | Controle de fluxo de caixa         | Para poder controlar as receitas e as despesas do empreendimento, além de acompanhar a taxa de                                                                 inadimplência.                                                      |                                                             
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
