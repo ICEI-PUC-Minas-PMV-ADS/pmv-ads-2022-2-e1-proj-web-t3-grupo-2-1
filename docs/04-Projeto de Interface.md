@@ -23,7 +23,9 @@ Tela - Home-Page
 A tela de home-page mostra a página de login e apresenta três elementos distintos:
 
 Login: para informar CNPJ e senha para login;
+
 Esqueci minha senha: para recuperação da senha;
+
 Cadastro: para quem deseja realizar um novo cadastro.
 
 ![image](https://user-images.githubusercontent.com/112219216/194440949-31710de6-0361-406c-8d40-2b5261e388bd.png)
