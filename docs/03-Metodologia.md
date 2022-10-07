@@ -58,8 +58,8 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 - `To do`
 - `Doing`
 - `Test`
-- `Done
-- 
+- `Done`
+- `Locked`
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
