@@ -5,7 +5,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 
 ## User Flow
-A figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema. Para visualizar o fluxo de usuário interativo, acesse o {miro app} (https://miro.com/app/board/uXjVPRL2bog=/?share_link_id=765970253784). Na sequência, cada uma das telas do fluxo está detalhada na seção de Wireframes.
+A figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema. Para visualizar o fluxo de usuário interativo, acesse o [miro app] (https://miro.com/app/board/uXjVPRL2bog=/?share_link_id=765970253784). Na sequência, cada uma das telas do fluxo está detalhada na seção de Wireframes.
 
 ![image](https://user-images.githubusercontent.com/112219216/194439906-3e5c3cc7-eb34-481c-b9ae-5114dfcb293e.png)
 
