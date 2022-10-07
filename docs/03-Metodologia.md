@@ -51,6 +51,8 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ### Processo
 
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+
+`Opção`Além do gerenciamento do projeto ser baseado no Scrum, o grupo utiliza o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -77,3 +79,7 @@ Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justific
 > **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
 > - [Slack](https://slack.com/)
 > - [Github](https://github.com/)
+> - [Trello](https://trello.com/)
+> - [MarvelApp](https://marvelapp.com/)
+> - [MiroApp](https://miro.com/)
+> 
