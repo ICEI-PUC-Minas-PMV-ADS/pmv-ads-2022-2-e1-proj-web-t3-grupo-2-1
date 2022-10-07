@@ -3,9 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
-`Opção`A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 Utilizando o GitHub para o Repositório do código fonte, MarvelApp e MiroApp para o Projeto de Interface e Wireframes, e Trello para o Gerenciamento do Projeto.
 
 
@@ -50,9 +48,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-
-`Opção`Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
+Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
 
 O planejamento das tarefas está dividido da seguinte forma:
 ![Trello](https://user-images.githubusercontent.com/111783703/194444029-db7ed15e-0359-4cc5-b99f-7f6a908112d4.PNG)
