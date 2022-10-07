@@ -54,18 +54,16 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 `Opção`Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
 
+O planejamento das tarefas está dividido da seguinte forma:
 ![Trello](https://user-images.githubusercontent.com/111783703/194444029-db7ed15e-0359-4cc5-b99f-7f6a908112d4.PNG)
 
-- `Recursos`
-- `Backlog`
-- `To do`
-- `Doing`
-- `Test`
-- `Done`
-- `Locked`
-
-
-
+- `Recursos`Esta lista mantém o template de tarefas recorrentes com as configurações padronizadas que todos devem seguir.
+- `Backlog`Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+- `To do`Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+- `Doing`Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+- `Test`Checagem de Qualidade. Quando as tarefas são concluídas, elas são movidas para o “Done”.
+- `Done`Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para serem entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+- `Locked`Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
