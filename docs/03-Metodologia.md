@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 Utilizando o GitHub para o Repositório do código fonte, MarvelApp e MiroApp para o Projeto de Interface e Wireframes, e Trello para o Gerenciamento do Projeto.
 
@@ -27,15 +25,6 @@ etiquetas:
 - `bug`: uma funcionalidade encontra-se com problemas
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
