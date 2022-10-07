@@ -8,27 +8,44 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![Diagrama de Componentes][Figura 15](https://user-images.githubusercontent.com/111931438/194439680-c579d2b7-6062-4b26-a9b5-956efb2f1f9a.jpg)
+![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
 
-<center>Figura 15 - Arquitetura da Solução</center>
+                                      <center>Figura 15 - Arquitetura da Solução</center>
+
 
 A solução implementada conta com os seguintes módulos:
-Navegador - Interface básica do sistema 
+
+Navegador - Interface básica do sistema
+
 Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+
 Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+
 Cadastro - registro de dados dos clientes e dados da empresa. 
+
 Cadastro empresa - registro dos dados da empresa que adquiriu a interface.
-Financeiro - registro de receitas e despesas da empresa. 
+
+Financeiro - registro de receitas e despesas da empresa.
+
 Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
 
 > **Links Úteis**:
 >
 > - [Whimsical](https://whimsical.com/)
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
+A imagem a seguir ilustra a o fluxo do usuário em nossa solução. O usuário deverá acessar o navegado, digitar a URLL para acesso a plataforma e assim
+que o usuário entra na plataforma, ele é apresentado à tela de login. Dentro da tela de login, o usuário deverá se autenticar na plataforma digitando o seu usúario e senha.
+
+Após realizar o acesso, o usuário será redirecionado para a tela inicial onde será possível escolher entre o menu de clientes, menu financeiro e o perfil do usuário.
+
+Caso ele opte por seguir pelo menu de clientes, será aberta uma nova janela e o usuário poderá cadastra novos clientes preenchendo os campos conforme solicitado. 
+
+Caso opte pelo menu financeiro, será aberto uma nova janela onde será listado todos os clientes cadastrado, e uma vez listado os cliente é possível editar as informações cadastrada dentro de cada cliente.
+
+Caso ele opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais
+
+
 (Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
 então visualizar sua galeria.
 
@@ -50,6 +67,9 @@ redirecionado para a Tela 7. Ao editar as informações, o usuário pode
 escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
+
+![_(copy)](https://user-images.githubusercontent.com/111931438/194447562-15f8c1c1-62e5-41df-848c-d3a355a2f916.png)
+
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
