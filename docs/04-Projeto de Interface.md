@@ -10,7 +10,9 @@ A figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema
 ![image](https://user-images.githubusercontent.com/112219216/194439906-3e5c3cc7-eb34-481c-b9ae-5114dfcb293e.png)
 
 ## Wireframes
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 2 . Nesta estrutura, existe um elemento, descrito a seguir:
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
+
+As telas do sistema apresentam uma estrutura comum que é apresentada na Figura abaixo . Nesta estrutura, existe um elemento, descrito a seguir:
 Cabeçalho: local onde são dispostos elementos fixos de identidade: logo.
 
 
