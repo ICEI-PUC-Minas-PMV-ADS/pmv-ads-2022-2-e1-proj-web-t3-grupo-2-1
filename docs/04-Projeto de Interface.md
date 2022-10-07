@@ -18,15 +18,12 @@ Nesta estrutura, existe um elemento, descrito a seguir:
 Cabeçalho: local onde são dispostos elementos fixos de identidade: logo.
 ![image](https://user-images.githubusercontent.com/112219216/194441170-44f2c49d-e759-42d9-80fa-b5854c1023d3.png)
 
-`Tela - Home-Page`
+`Tela - Home Page`
 
 A tela de home-page mostra a página de login e apresenta três elementos distintos:
-
-Login: para informar CNPJ e senha para login;
-
-Esqueci minha senha: para recuperação da senha;
-
-Cadastro: para quem deseja realizar um novo cadastro.
+- Login: para informar CNPJ e senha para login;
+- Esqueci minha senha: para recuperação da senha;
+- Cadastro: para quem deseja realizar um novo cadastro.
 
 ![image](https://user-images.githubusercontent.com/112219216/194440949-31710de6-0361-406c-8d40-2b5261e388bd.png)
 
