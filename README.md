@@ -6,7 +6,7 @@
 
 `2022/2`
 
-Desenvolvimento de uma solução simples para que pequenos consultórios de psicologia possam organizar e gerir bem os seus modelos de negócios.
+Desenvolvimento de uma solução simples para que pequenos consultórios de psicologia possam organizar e gerir bem o seu modelo de negócio.
 
 ## Integrantes
 
