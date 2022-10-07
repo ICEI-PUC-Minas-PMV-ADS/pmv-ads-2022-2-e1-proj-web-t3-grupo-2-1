@@ -16,6 +16,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 Nesta estrutura, existe um elemento, descrito a seguir:
 Cabeçalho: local onde são dispostos elementos fixos de identidade: logo.
+
 ![image](https://user-images.githubusercontent.com/112219216/194441170-44f2c49d-e759-42d9-80fa-b5854c1023d3.png)
 
 `Tela - Home Page`
