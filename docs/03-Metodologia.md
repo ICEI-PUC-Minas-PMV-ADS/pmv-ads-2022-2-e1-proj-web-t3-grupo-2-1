@@ -53,13 +53,6 @@ O planejamento das tarefas está dividido no [Trello](https://trello.com/b/wmzNg
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de organização do projeto
-- Ferramentas de desenho de tela (_wireframing_)
-
 Ferramentas que foram empregadas no desenvolvimento do projeto
  
 > **Ferramentas que auxiliarão no gerenciamento**: 
