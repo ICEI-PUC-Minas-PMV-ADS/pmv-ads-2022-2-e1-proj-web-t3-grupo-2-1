@@ -37,7 +37,7 @@ etiquetas:
 
 ### Processo
 
-Além do gerenciamento do projeto ser baseado no método Scrum, o grupo utiliza/faz uso da ferramenta o Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
+Além do gerenciamento do projeto ser baseado no método Scrum, o grupo faz uso da ferramenta Trello para acompanhar o andamento do projeto a execução das tarefas e o status de desenvolvimento da solução.
 
 O planejamento das tarefas está dividido no [Trello](https://trello.com/b/wmzNgJt4/projeto-consult%C3%B3rio-turma3-grupo2/) da seguinte forma:
 
@@ -60,16 +60,9 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de organização do projeto
 - Ferramentas de desenho de tela (_wireframing_)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. As ferramentas de organização
-do projeto que foram utilizadas possuem intregração semelhante. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Ferramentas que foram empregadas no desenvolvimento do projeto (justificando a escolha delas, sempre que possível)
+Ferramentas que foram empregadas no desenvolvimento do projeto
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
+> **Ferramentas que auxiliarão no gerenciamento**: 
 > - [Github](https://github.com/)
 > - [Trello](https://trello.com/)
 > - [MarvelApp](https://marvelapp.com/)
