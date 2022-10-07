@@ -8,7 +8,8 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-![Diagrama de Componentes](img/componentes.png)
+![Diagrama de Componentes][Figura 15](https://user-images.githubusercontent.com/111931438/194439680-c579d2b7-6062-4b26-a9b5-956efb2f1f9a.jpg)
+
 <center>Figura 15 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
