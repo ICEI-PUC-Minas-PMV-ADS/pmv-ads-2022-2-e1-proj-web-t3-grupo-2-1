@@ -15,7 +15,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Larissa dos Santos  | Cadastrar clientes                 | Para ter acesso e controle de todos os dados em uma única plataforma.| 
-|Larissa dos Santos  | Gerenciar dados                    | Para trabalhar estratégias direcionadas para cada perfil de clientes.|                              |Larissa dos Santos  | Controlar Fluxo de caixa           | Para poder controlar as receitas e as despesas do empreendimento, além de                     acompanhar a taxa de inadimplência.| 
+|Larissa dos Santos  | Gerenciar dados                    | Para trabalhar estratégias direcionadas para cada perfil de clientes.|
+|Larissa dos Santos  | Controle de fluxo de caixa         | 
                                                                
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
