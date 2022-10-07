@@ -29,10 +29,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| O site deve apresentar uma tela de boas vindas e oferecer um menu de funcionalidades                         |     MÉDIA    |
 |RF-003| O site deve conter um menu de funcionalidade que permita ao usuário navegar entre elas                       |     MÉDIA    |
 |RF-004| O site deve conter no menu de funcionalidades duas opções: Cliente e Financeiro                              |     ALTA     |
-|RF-005| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de clientes e Listagem de 
-         Clientes                                                                                                     |     ALTA     |
-|RF-006| O site deve oferecer uma funcionalidade para controle financeiro (Painel financeiro, receita, despesas 
-         e extrato)                                                                                                   |      ALTA    | 
+|RF-005| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de clientes e Listagem de Clientes | ALTA  |
+|RF-006| O site deve oferecer uma funcionalidade para controle financeiro (Painel financeiro, receita, despesas e extrato)|  ALTA    | 
 
 
 ### Requisitos não Funcionais
