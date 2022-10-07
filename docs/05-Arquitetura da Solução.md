@@ -14,13 +14,13 @@ Os componentes que fazem parte da solução são apresentados na Figura que se s
 
 A solução implementada conta com os seguintes módulos:
 
->Navegador - Interface básica do sistema 
->Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
->Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
->Cadastro - registro de dados dos clientes e dados da empresa. 
->Cadastro empresa - registro dos dados da empresa que adquiriu a interface.
->Financeiro - registro de receitas e despesas da empresa. 
->Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
+Navegador - Interface básica do sistema 
+Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+Cadastro - registro de dados dos clientes e dados da empresa. 
+Cadastro empresa - registro dos dados da empresa que adquiriu a interface.
+Financeiro - registro de receitas e despesas da empresa. 
+Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
 
 > **Links Úteis**:
 >
