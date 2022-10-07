@@ -16,7 +16,7 @@ Cabeçalho: local onde são dispostos elementos fixos de identidade: logo.
 
 Figura 3 - Estrutura padrão do site
 
-![image](https://user-images.githubusercontent.com/112219216/194440632-e6cd87b9-9376-4f6a-b152-af73f6c9a296.png)
+![image](https://user-images.githubusercontent.com/112219216/194441170-44f2c49d-e759-42d9-80fa-b5854c1023d3.png)
 
 Tela - Home-Page
 A tela de home-page mostra a página de login e apresenta três elementos distintos:
