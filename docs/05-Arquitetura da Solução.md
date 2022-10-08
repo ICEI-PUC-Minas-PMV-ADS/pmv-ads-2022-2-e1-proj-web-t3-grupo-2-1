@@ -10,7 +10,7 @@ Os componentes que fazem parte da solução serão apresentados na Figura a baix
 
 ![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
 
-                                      <center>Figura 15 - Arquitetura da Solução</center>
+<center>Figura 15 - Arquitetura da Solução</center>
 
 
 A solução implementada conta com os seguintes módulos:
