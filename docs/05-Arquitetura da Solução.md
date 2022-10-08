@@ -9,9 +9,7 @@ Nesta seção serão apresentados os detalhes técnicos da solução criada pela
 Os componentes que fazem parte da solução serão apresentados na Figura a baixo.
 
 ![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
-
 <center>Figura - Arquitetura da Solução</center>
-
 
 A solução implementada conta com os seguintes módulos:
 
@@ -40,7 +38,7 @@ Caso opte pelo menu financeiro, será aberto uma nova janela onde é listado tod
 Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais.
 
 ![_(copy) (1)](https://user-images.githubusercontent.com/111931438/194721805-d266c116-13d5-413f-abf4-870b5aa379bb.png)
-<center>Figura - Fluxo de navegação</center>
+                                                                <center>Figura - Fluxo de navegação</center>
 
 ## Tecnologias Utilizadas
 
