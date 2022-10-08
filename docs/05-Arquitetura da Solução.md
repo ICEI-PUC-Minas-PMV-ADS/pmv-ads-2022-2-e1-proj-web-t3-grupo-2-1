@@ -58,9 +58,6 @@ Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de
 |Trello|Gerenciamento do projeto|
 |Hiroku|Hospedagem|
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-
-
 ## Hospedagem
 
 O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
