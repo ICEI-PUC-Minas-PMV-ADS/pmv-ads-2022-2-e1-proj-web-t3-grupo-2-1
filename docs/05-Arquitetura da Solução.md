@@ -10,7 +10,7 @@ Os componentes que fazem parte da solução serão apresentados na Figura a baix
 
 ![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
 
-<center>Figura 15 - Arquitetura da Solução</center>
+                                      <center>Figura 15 - Arquitetura da Solução</center>
 
 
 A solução implementada conta com os seguintes módulos:
@@ -43,8 +43,18 @@ Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de
 
 
 ## Tecnologias Utilizadas
-|----------|--------------|
-|Tecnologia/Ferramenta| Utilização|
+
+|Tecnologia/Ferramenta|Utilização|
+|:-----:|:-----|
+|VS. Code|IDE utilizada para codificação|
+|PhotoShop|Edição de imagens|
+|HTML 5|Estruturação da página|
+|CSS3|Estilo da página|
+|JavaScript|Funcionalidades|
+|MarvelApp|Projeto de Interface e  Wireframes|
+|MiroApp|Projeto de Interface e  Wireframes|
+|Trello|Gerenciamento do projeto|
+|Hiroku|Hospedagem|
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
