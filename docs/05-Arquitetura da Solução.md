@@ -39,7 +39,8 @@ Caso opte pelo menu financeiro, será aberto uma nova janela onde é listado tod
 
 Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais.
 
-![untitled](https://user-images.githubusercontent.com/111931438/194721770-b8a99c75-7353-4565-8e50-311fb35674f1.png)
+![_(copy) (1)](https://user-images.githubusercontent.com/111931438/194721805-d266c116-13d5-413f-abf4-870b5aa379bb.png)
+
 
 ## Tecnologias Utilizadas
 
