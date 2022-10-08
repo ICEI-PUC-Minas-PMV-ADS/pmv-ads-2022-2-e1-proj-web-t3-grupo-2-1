@@ -2,11 +2,11 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
+Nesta seção serão apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem.
 
 ## Diagrama de componentes
 
-Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+Os componentes que fazem parte da solução serão apresentados na Figura a baixo.
 
 ![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
 
@@ -29,53 +29,20 @@ Financeiro - registro de receitas e despesas da empresa.
 
 Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
 
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
-
-
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. O usuário deverá acessar o navegador, digitar a URLL para acesso a plataforma, após o acesso na plataforma, é apresentado à tela de login. Dentro da tela de login, o usuário deverá se autenticar na plataforma digitando o seu usúario e senha.
+A imagem a seguir ilustra o fluxo do usuário em nossa solução. O usuário deverá acessar o navegador, digitar a URL para acesso a plataforma, após o acesso na plataforma, é apresentado à tela de login. Dentro da tela de login, o usuário deverá se autenticar na plataforma digitando o seu usúario e senha.
 
 Após realizar o acesso, o usuário será redirecionado para a tela inicial onde será possível escolher entre o menu de clientes, menu financeiro e o perfil do usuário.
 
-Caso ele opte por seguir pelo menu de clientes, será aberta uma nova janela onde o usuário pode realizar o cadastra novos clientes preenchendo os campos conforme solicitado. 
+Caso opte por seguir pelo menu de clientes, será aberta uma nova janela onde o usuário pode realizar o cadastro de novos clientes preenchendo os campos  solicitados. 
 
-Caso opte pelo menu financeiro, será aberto uma nova janela onde é listado todos os clientes cadastrado, e uma vez listado os cliente é possível editar as informações cadastrada dentro de cada cliente.
+Caso opte pelo menu financeiro, será aberto uma nova janela onde é listado todos os clientes cadastrados, e uma vez listados, é possível editar as informações cadastradas dentro de cada cliente.
 
-Caso ele opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais
-
-
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
-
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
-
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de edição de perfil, onde pode atualizar seus dados cadastrais.
 
 ![_(copy)](https://user-images.githubusercontent.com/111931438/194447562-15f8c1c1-62e5-41df-848c-d3a355a2f916.png)
 
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
-
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
