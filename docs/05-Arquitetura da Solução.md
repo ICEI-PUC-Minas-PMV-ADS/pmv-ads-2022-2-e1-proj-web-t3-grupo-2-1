@@ -51,6 +51,8 @@ Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de
 |HTML 5|Estruturação da página|
 |CSS3|Estilo da página|
 |JavaScript|Funcionalidades|
+|Git|Controle de versões da aplicação|
+|GitHub|Repositório do código fonte e ferramenta de gerenciamento de projeto|
 |MarvelApp|Projeto de Interface e  Wireframes|
 |MiroApp|Projeto de Interface e  Wireframes|
 |Trello|Gerenciamento do projeto|
@@ -65,11 +67,3 @@ O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do pro
 https://link_exemplo.herokuapp.com 
 A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
 https://git.heroku.com/link_exemplo.git
-
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
