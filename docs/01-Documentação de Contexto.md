@@ -9,10 +9,6 @@ Em uma pesquisa realizada pelo SEBRAE SP em 2014, através de um estudo realizad
 
 O que se busca resolver com esse projeto é a melhoria da gestão de um consultório de psicologia, visando sanar dois problemas: Gerenciamento de dados de clientes e a organização financeira.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -22,8 +18,6 @@ Como objetivos específicos, podemos ressaltar:
 * Fornecer funcionalidades que permitam a catalogação de todos os seus clientes e gerenciar a suas informações;
 * Fornecer funcionalidades que permitam controlar o fluxo de caixa.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -32,15 +26,8 @@ Atualmente, há uma dificuldade em gerir informações financeiras por parte de 
 
 Assim, torna-se necessária a existência de uma aplicação que gerencie esses dados, indispensáveis para a saúde e crescimento de um negócio. Além do cadastro dos clientes para controle e consulta, o projeto visa a geração de relatórios com dados como a média das idades e o sexo dos clientes, que podem ser utilizados posteriormente em campanhas de marketing (visando a captação de novos clientes).
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 O público alvo deste trabalho são administradores de pequenos consultórios de psicologia que buscam soluções para organizar e gerenciar seus empreendimentos.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
