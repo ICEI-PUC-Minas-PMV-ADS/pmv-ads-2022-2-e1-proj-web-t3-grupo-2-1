@@ -1,12 +1,7 @@
 # Template padrão do site
+![Desktop](https://user-images.githubusercontent.com/89876269/198905211-c9ddc55b-eec4-45c0-a168-dc9d8cedd958.jpeg)
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+![Tablet](https://user-images.githubusercontent.com/89876269/198905231-375bb07f-fdbf-4b15-9137-d7cf4b6edf5e.jpeg)
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![Mobile](https://user-images.githubusercontent.com/89876269/198905243-6392537b-cfcf-428f-8a85-c709596efce5.jpeg)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
