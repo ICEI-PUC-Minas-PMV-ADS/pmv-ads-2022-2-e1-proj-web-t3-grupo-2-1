@@ -80,17 +80,24 @@ Local onde são exibidas o extrato financeiro.
 
 Tela de esqueceu senha
 
-Este layout é utilizado para solicitar a redefinição da senha esquecida.
+Este layout é utilizado para solicitar o reset da senha cadastrada no qual foi esquecida.
 
 ![image](https://user-images.githubusercontent.com/111931438/198908081-12557f16-bc7e-46ac-af80-2ab034361fcd.png)
 
 Tela de redefinir senha
 
-Este layout é utilizado para redefinição da senha cadastrada.
+Este layout é utilizado para solicitar cadastro de uma nova senha após clicar no link enviao ao emial pela função de esqueceu a senha.
 
-![image](https://user-images.githubusercontent.com/111931438/198908109-abf95fbb-7647-4f9a-91ce-296218d8daa6.png)
+![image](https://user-images.githubusercontent.com/111931438/198910066-2ec011ba-fc9d-4d0e-9fb2-89a229294ad8.png)
 
 Tela de cadastro de usuário
 
 Este layout é utilizado cadastra um novo usuário.
+
+
+Tela de editar senha de usuário
+
+Este layout é utilizado para redefinição da senha já cadastrada.
+
+![image](https://user-images.githubusercontent.com/111931438/198909874-62223137-d370-4a68-9abb-4c16de03896c.png)
 
