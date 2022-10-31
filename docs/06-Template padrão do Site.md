@@ -62,7 +62,7 @@ Este layout é utilizado para listar todos os clientes cadastrados.
 
 Tela de editar cadastro de clientes
 
-Este layout é utilizado para editar os cadastro dos clientes já cadastrados.
+Este layout é utilizado para editar o cadastro dos clientes já cadastrados.
 
 ![image](https://user-images.githubusercontent.com/111931438/198909281-e15dd448-1df8-4d5c-8a04-eaf9ba612136.png)
 
