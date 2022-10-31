@@ -49,7 +49,7 @@ Tela que abrange todas as visualizações iniciais do site e as funcionalidade: 
 
 Tela de cadastro de cliente
 
-Este layout é utilizado para solicitar o preenchimento dos dados solicitados para o cadastro do cliente.
+Este layout é utilizado para solicitar o preenchimento dos dados para cadastro de cliente.
 
 ![image](https://user-images.githubusercontent.com/111931438/198909258-f2ed41cc-c492-4152-901e-8ff6fa975e0e.png)
 
@@ -62,7 +62,7 @@ Este layout é utilizado para listar todos os clientes cadastrados.
 
 Tela de editar cadastro de clientes
 
-Este layout é utilizado para listar todos os clientes já cadastrados.
+Este layout é utilizado para editar os cadastro dos clientes já cadastrados.
 
 ![image](https://user-images.githubusercontent.com/111931438/198909281-e15dd448-1df8-4d5c-8a04-eaf9ba612136.png)
 
