@@ -51,7 +51,8 @@ Tela de cadastro de cliente
 
 Este layout é utilizado para solicitar o preenchimento dos dados solicitados para o cadastro do cliente.
 
-![image](https://user-images.githubusercontent.com/111931438/198907828-6019dfa3-9fec-4bd2-9a13-88fb8b30d2fb.png)
+![image](https://user-images.githubusercontent.com/111931438/198909258-f2ed41cc-c492-4152-901e-8ff6fa975e0e.png)
+
 
 Tela de listagem de clientes
 
@@ -63,7 +64,7 @@ Tela de editar cadastro de clientes
 
 Este layout é utilizado para listar todos os clientes já cadastrados.
 
-![image](https://user-images.githubusercontent.com/111931438/198907948-aa4ab3f1-e911-40d1-b91a-2be64bfaebf3.png)
+![image](https://user-images.githubusercontent.com/111931438/198909281-e15dd448-1df8-4d5c-8a04-eaf9ba612136.png)
 
 Tela de cadastro de receita ou despesa
 
