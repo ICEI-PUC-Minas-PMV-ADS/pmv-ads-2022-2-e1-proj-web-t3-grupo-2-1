@@ -62,7 +62,7 @@ Este layout é utilizado para listar todos os clientes cadastrados.
 
 Tela de editar cadastro de clientes
 
-Este layout é utilizado para editar o cadastro dos clientes já cadastrados.
+Este layout é utilizado para editar dados dos cliente já cadastrado.
 
 ![image](https://user-images.githubusercontent.com/111931438/198909281-e15dd448-1df8-4d5c-8a04-eaf9ba612136.png)
 
@@ -74,7 +74,7 @@ Este layout é utilizado para cadastrar todas as movimentações financeiras.
 
 Tela de extrato financeiro
 
-Local onde são exibidas o extrato financeiro.
+Local onde é exibido o extrato financeiro.
 
 
 
@@ -86,13 +86,13 @@ Este layout é utilizado para solicitar o reset da senha cadastrada no qual foi 
 
 Tela de redefinir senha
 
-Este layout é utilizado para solicitar cadastro de uma nova senha após clicar no link enviao ao emial pela função de esqueceu a senha.
+Este layout é utilizado para solicitar cadastro de uma nova senha após clicar no link enviado ao email pela função de esqueceu a senha.
 
 ![image](https://user-images.githubusercontent.com/111931438/198910066-2ec011ba-fc9d-4d0e-9fb2-89a229294ad8.png)
 
 Tela de cadastro de usuário
 
-Este layout é utilizado cadastra um novo usuário.
+Este layout é utilizado cadastrar um novo usuário.
 
 
 Tela de editar senha de usuário
