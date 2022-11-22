@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Esqueceu a senha?</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <!--Logo.-->
+    <conteiner class="conteiner">
+        <header class="cabecalho">
+            <img src="_img/logo.png">
+        </header>
+
+        <!--Título.-->
+        <div class="titulo">
+            <h1>Esqueceu a senha?</h1>
+        </div>
+
+        <section class="conteudo">
+            <form>
+                <!--Campos para envio do link de recuperação.-->
+                <input type="email" name="email" class="input_text" placeholder="Email" /><br><br>
+                <input type="text" name="CNPJ" class="input_text" placeholder="CNPJ" /><br><br>                
+
+                <!--Botão-->
+                <input type="button" value="ENVIAR" class="input_btn" onclick="enviar()" /><br><br>                
+            </form>
+        </section>
+    </conteiner>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
