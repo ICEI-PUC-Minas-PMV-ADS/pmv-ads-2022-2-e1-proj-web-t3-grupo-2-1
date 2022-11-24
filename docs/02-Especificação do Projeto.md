@@ -23,14 +23,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    |                             Descrição do Requisito                                                           | Prioridade   |
-|------|--------------------------------------------------------------------------------------------------------------|--------------|
-|RF-001| O site deve apresentar na página principal, uma área de login (Usuário e senha), uma imagem com a logomarca. |     ALTA     | 
-|RF-002| O site deve apresentar uma tela de boas vindas e oferecer um menu de funcionalidades                         |     MÉDIA    |
-|RF-003| O site deve conter um menu de funcionalidade que permita ao usuário navegar entre elas                       |     MÉDIA    |
-|RF-004| O site deve conter no menu de funcionalidades duas opções: Cliente e Financeiro                              |     ALTA     |
-|RF-005| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de clientes e Listagem de Clientes | ALTA  |
-|RF-006| O site deve oferecer uma funcionalidade para controle financeiro (Painel financeiro, receita, despesas e extrato)|  ALTA    | 
+|ID    |                             Descrição do Requisito                                                                  | Prioridade  |
+|------|-------------------------------------------------------------------------------------------------------------------- |-------------|
+|RF-001| O site deve apresentar na página principal: área de login (Usuário e senha), imagem com a logomarca, opção de 
+         cadastro de novo usuário e opção de esqueceu a senha.                                                               |     ALTA    | 
+|RF-002| O site deve apresentar uma tela de boas vindas                                                                      |     MÉDIA   |
+|RF-003| O site deve conter um menu de funcionalidade com os intens Cliente e Financeiro
+         que permita ao usuário navegar entre elas                                                                           |     ALTA    |
+|RF-004| RF-004 - O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de novo clientes e a
+         Listagem de clientes cadastrados.                                                                                   |     ALTA    |
+|RF-005| O site deve conter dentro do menu financeiro as seguintes funcionalidades: Cadastro de  movimentação financeira e
+         histórico de movimentações financeiras                                                                              |     ALTA    | 
 
 
 ### Requisitos não Funcionais
