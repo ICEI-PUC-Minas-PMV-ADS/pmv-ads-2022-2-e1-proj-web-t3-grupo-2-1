@@ -94,14 +94,16 @@ A tela "Cadastro de usuário" aparece quando o usuário clica na opção na tela
 
 **A tabela a seguir exibe os artefatos desenvolvidos de acordo com os requsitos definidos**
 
-|ID    | Descrição do Requisito Funcional  | Artefato(s) produzido(s) |
+|ID    | Descrição dos Requisitos Funcionais  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| O site deve apresentar na página principal, uma área de login (Usuário e senha), uma imagem com a logomarca. |  yyy.png / yyy.html / yyyyyyyyyy.css |
-|RF-002| O site deve apresentar uma tela de boas vindas e oferecer um menu de funcionalidades |  yyy.png / yyy.html / yyyyyyyyyy.css | 
-|RF-003| O site deve conter um menu de funcionalidade que permita ao usuário navegar entre as abas |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy| 
-|RF-004| O site deve conter no menu de funcionalidades duas opções: Cliente e Financeiro	 |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
-|RF-005| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de clientes e Listagem de Clientes	 |  yyy.png / yyy.html / yyyyyyyyyy.css | 
-|RF-006| O site deve oferecer uma funcionalidade para controle financeiro (Painel financeiro, receita, despesas e extrato)	 |  yyy.png / yyy.html / yyyyyyyyyy.css | 
+|RF-001| O site deve apresentar na página principal, uma área de login (Usuário e senha), uma imagem com a logomarca. | index.html / style.css / scrip.js /  logo.png|
+
+|RF-002| O site deve apresentar uma tela de boas vindas e oferecer um menu de funcionalidades | index.html / style.css / scrip.js /  logo.png|
+
+|RF-003| O site deve conter um menu de funcionalidade que permita ao usuário navegar entre as abas | index.html / style.css / scrip.js /  logo.png|
+|RF-004| O site deve conter no menu de funcionalidades duas opções: Cliente e Financeiro	 | index.html / style.css / scrip.js /  logo.png|
+|RF-005| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de clientes e Listagem de Clientes | index.html / style.css / scrip.js /  logo.png| 
+|RF-006| O site deve oferecer uma funcionalidade para controle financeiro (Painel financeiro, receita, despesas e extrato) | index.html / style.css / scrip.js /  logo.png| 
 
 
 |ID    | Descrição dos Requisitos Não Funcionais  | Artefato(s) produzido(s) |
