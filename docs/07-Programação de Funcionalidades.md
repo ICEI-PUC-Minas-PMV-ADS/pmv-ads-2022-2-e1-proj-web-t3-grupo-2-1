@@ -20,17 +20,17 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 A tela de login é a tela principal do sistema e realiza a autenticação dos usuários do site por meio do usuário (CNPJ OU CPF) e senha.
 Requisitos atendidos
 
-**RF-001**
+- RF-001
 
 Artefatos da funcionalidade
 
-index.html
+- index.html
 
-style.css
+- style.css
 
-script.js
+- script.js
 
-logo.png
+- logo.png
 
 Estrutura de Dados
 
