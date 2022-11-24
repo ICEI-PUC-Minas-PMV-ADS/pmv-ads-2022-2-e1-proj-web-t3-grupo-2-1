@@ -23,12 +23,14 @@ Requisitos atendidos
 RF-001
 
 Artefatos da funcionalidade
+
 index.html
 style.css
 script.js
 logo.png
 
 Estrutura de Dados
+
 Disponível em:
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/blob/main/src/_login%201.1/index.html
 
