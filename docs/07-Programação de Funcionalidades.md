@@ -14,14 +14,15 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 > 
-> Tela de Home Page - Login
 > 
+`Tela de Home Page - Login`
+
 A tela de login é a tela principal do sistema e realiza a autenticação dos usuários do site por meio do usuário (CNPJ OU CPF) e senha.
 Requisitos atendidos
 
 RF-001
 
-Artefatos da funcionalidade
+## Artefatos da funcionalidade
 index.html
 style.css
 script.js
