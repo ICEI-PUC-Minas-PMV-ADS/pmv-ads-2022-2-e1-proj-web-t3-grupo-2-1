@@ -89,5 +89,5 @@ Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-A tela "Esqueci minha senha" aparece quando o usuário clica na opção na tela de login. Basta informar os dados para receber uma nova senha por e-mail.
+A tela "Cadastro de usuário" aparece quando o usuário clica na opção na tela de login. Basta informar os dados solicitados para finalizar o cadastro.
 
