@@ -25,8 +25,11 @@ RF-001
 Artefatos da funcionalidade
 
 index.html
+
 style.css
+
 script.js
+
 logo.png
 
 Estrutura de Dados
