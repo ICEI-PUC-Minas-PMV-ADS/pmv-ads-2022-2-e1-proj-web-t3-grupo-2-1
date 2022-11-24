@@ -96,7 +96,7 @@ A tela "Cadastro de usuário" aparece quando o usuário clica na opção na tela
 
 |ID    | Descrição dos Requisitos Funcionais  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| O site deve apresentar na página principal, uma área de login (Usuário e senha), uma imagem com a logomarca. | index.html / style.css / scrip.js /  logo.png|
+|RF-001| O site deve apresentar na página principal, uma área de login (Usuário e senha), uma imagem com a logomarca. | index.html / style.css / scrip.js /  logo.png|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_login%201.1 |
 |RF-002| O site deve apresentar uma tela de boas vindas e oferecer um menu de funcionalidades | index.html / style.css / scrip.js /  logo.png|
 |RF-003| O site deve conter um menu de funcionalidade que permita ao usuário navegar entre as abas | index.html / style.css / scrip.js /  logo.png|
 |RF-004| O site deve conter no menu de funcionalidades duas opções: Cliente e Financeiro	 | index.html / style.css / scrip.js /  logo.png|
