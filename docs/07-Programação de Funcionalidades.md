@@ -91,3 +91,26 @@ Abra um navegador de Internet e informe a seguinte URL:
 
 A tela "Cadastro de usuário" aparece quando o usuário clica na opção na tela de login. Basta informar os dados solicitados para finalizar o cadastro.
 
+
+**A tabela a seguir exibe os artefatos desenvolvidos de acordo com os requsitos definidos**
+
+|ID    | Descrição do Requisito Funcional  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-001| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-002| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-003| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy| 
+|RF-004| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-005| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy| 
+|RF-006| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-007| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-008| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+
+
+
+|ID    | Descrição dos Requisitos Não Funcionais  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-006| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-006| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-006| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+|RF-006| xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx |  yyy.png / yyy.html / yyyyyyyyyy.css | yyyyyyyy.js| yyyyyyyy.yy|
+
