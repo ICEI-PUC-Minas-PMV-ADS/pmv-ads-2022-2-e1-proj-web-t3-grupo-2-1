@@ -14,10 +14,9 @@
 
 ![cadastrarcliente_AdobeExpress33333333333333](https://user-images.githubusercontent.com/111783703/204059614-c7a927ca-7bb8-4a2b-907e-3124139c9eb9.gif)
 
-
 ## Registro de Testes - Cadastrar Movimentação
 
-![cadastrarmovimentação_AdobeExpress](https://user-images.githubusercontent.com/111783703/204059267-2a73b666-491c-4d6f-a873-20230217054f.gif)
+![cadastrarmovimentação_AdobeExpress333333333333333333333](https://user-images.githubusercontent.com/111783703/204059686-ef0aa993-1f63-4208-93a3-98706fe2997d.gif)
 
 ## Registro de Testes - Esqueceu a Senha
 
