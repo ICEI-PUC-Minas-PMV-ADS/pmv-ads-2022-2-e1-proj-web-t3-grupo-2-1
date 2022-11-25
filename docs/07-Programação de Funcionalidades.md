@@ -21,7 +21,7 @@ Artefatos da funcionalidade
 Estrutura de Dados
 
 Disponível em:
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/blob/main/src/_login%201.1/index.html
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_login
 
 Instruções de acesso:
 
@@ -44,17 +44,50 @@ Artefatos da funcionalidade
 - script.js
 
 - logo.png
+
 - engrenagem.png
 
 Estrutura de Dados
 
 Disponível em:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/blob/main/src/_esqueceu%20senha%201.1/index.html
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_esqueceu%20senha
 
 Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
+
+
+### Tela - Redefinir senha
+
+A tela de redefinição de senha permite ao usuário cadastrar uma nova senha. 
+
+Requisitos atendidos:
+
+- RF-001
+
+Artefatos da funcionalidade
+
+- index.html
+
+- style.css
+
+- script.js
+
+- logo.png
+
+- engrenagem.png
+
+Estrutura de Dados
+
+Disponível em:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_redefinir%20senha
+
+Instruções de acesso:
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
 
 ### Tela cadastro de usuário
 
@@ -79,7 +112,7 @@ Estrutura de Dados
 
 Disponível em:
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/blob/main/src/_cadastro%20de%20usu%C3%A1rio%201.1/index.html
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cadastro%20de%20usu%C3%A1rio
 
 Instruções de acesso:
 
