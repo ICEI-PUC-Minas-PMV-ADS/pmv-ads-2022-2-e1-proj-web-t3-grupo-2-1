@@ -1,8 +1,8 @@
 # Programação de Funcionalidades
 
-`Tela de Home Page - Login`
+### Tela HOMEPAGE / Log-in
 
-A tela de login é a tela principal do sistema e realiza a autenticação dos usuários do site por meio do usuário (CNPJ OU CPF) e senha.
+A tela de login é a tela principal do sistema e realiza a autenticação dos usuários do site por meio do usuário (CNPJ OU CPF) e senha. É a primeira funcionalidade exibida pelo site.
 
 Requisitos atendidos:
 
@@ -26,8 +26,6 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-
 Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
-
-A tela de Login é a primeira funcionalidade exibida pelo site.
 
 `Tela - Esqueci Minha Senha`
 
