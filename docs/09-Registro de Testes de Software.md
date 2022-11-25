@@ -12,13 +12,11 @@
 
 ## Registro de Testes - Cadastrar Cliente
 
-
-
+![cadastrarcliente_AdobeExpress](https://user-images.githubusercontent.com/111783703/204059272-398c8247-ae76-433b-9091-cc2861ffdf9c.gif)
 
 ## Registro de Testes - Cadastrar Movimentação
 
-![cadastrar movimentação](https://user-images.githubusercontent.com/111783703/204058877-67cae789-694a-4072-9386-c9c8c2e17fb4.gif)
-
+![cadastrarmovimentação_AdobeExpress](https://user-images.githubusercontent.com/111783703/204059267-2a73b666-491c-4d6f-a873-20230217054f.gif)
 
 ## Registro de Testes - Esqueceu a Senha
 
