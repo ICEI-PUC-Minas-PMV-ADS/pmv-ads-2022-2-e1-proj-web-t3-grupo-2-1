@@ -17,7 +17,7 @@
 
 ## Registro de Testes - Cadastrar Movimentação
 
-![cadastrarmovimentação_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058520-5556ab6a-2e81-46c0-98a6-5d3dcc8fea46.gif)
+![cadastrar movimentação](https://user-images.githubusercontent.com/111783703/204058877-67cae789-694a-4072-9386-c9c8c2e17fb4.gif)
 
 
 ## Registro de Testes - Esqueceu a Senha
