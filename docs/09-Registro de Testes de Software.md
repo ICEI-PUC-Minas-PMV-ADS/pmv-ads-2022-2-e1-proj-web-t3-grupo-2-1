@@ -12,7 +12,7 @@
 
 ## Registro de Testes - Cadastrar Cliente
 
-![cadastrarcliente_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058624-540fdea0-e4b5-40bc-967d-b371a279d93f.gif)
+
 
 
 ## Registro de Testes - Cadastrar Movimentação
