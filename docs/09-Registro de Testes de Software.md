@@ -6,7 +6,7 @@
 
 ## Registro de Testes - Alterar Senha
 
-![alterar_a_senha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058511-c939ae5b-dc6f-4428-9c40-8d6a6e5ec84a.gif)
+![alterar_a_senha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058605-e2c8730c-fc33-44b9-aebe-484c37ad399e.gif)
 
 ## Registro de Testes - Cadastrar Cliente
 
