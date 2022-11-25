@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de usuário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <conteiner class="conteiner">
+        <!--Logo.-->
+        <header class="logo">
+            <img src="_img/logo.png">
+        </header>
+        <!--Título-->
+        <div class="titulo">
+            <h1>Cadastro de usuário</h1>
+        </div>
+        <!--Formulário-->
+        <section class="conteudo">
+            <form name="cadastro" action="" onsubmit="senhaOK ();" method="">
+                <input type="text" id="nome" required placeholder="Nome"><br><br>
+                <input type="text" id="cnpj" required minlength="11" maxlength="14" size="14"
+                    onkeypress="return event.charCode >= 48 && event.charCode <= 57"
+                    placeholder="CPF/CNPJ (Apenas números)"><br><br>
+                <input type="email" id="email" required placeholder="E-mail"><br><br>
+                <input type="password" name="senha" size=15 required placeholder="Nova Senha" minlength="6"
+                    maxlength="15" onchange="confereSenha();"><br><br>
+                <input type="password" name="confirma" size=15 required placeholder="Confirme a senha"
+                    onchange="confereSenha();" minlength="6" maxlength="15"><br><br>
+                    <h3>A senha deve conter no mínimo 6 caracteres!</h3><br>
+                <!--Botão-->
+                <input type="submit" class="botao" value="SALVAR" onclick="salvar();"><br><br>
+                <input type="button" class="botao" value="CANCELAR" onclick="">
+            </form>
+        </section>
+
+    </conteiner>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

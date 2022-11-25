@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Alterar Senha</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <!--Logo-->
+    <conteiner class="conteiner">
+        <header class="cabecalho">
+            <img src="_img/logo.png">
+        </header>
+
+        <!--Título-->
+        <div class="titulo">
+            <h1>Alterar senha</h1>
+        </div>
+
+        <section class="conteudo">
+            <form onsubmit="senhaOK();">
+                <!--Campos de alteração da senha-->
+                <input type="password" name="atual" size=15 required placeholder="Senha atual" minlength="6"
+                    maxlength="15"><br><br><br><br>
+                <input type="password" name="senha" size=15 required placeholder="Nova Senha" minlength="6"
+                    maxlength="15" onchange="confereSenha();"><br><br><br><br>
+                <input type="password" name="confirma" size=15 required placeholder="Confirme a senha"
+                    onchange="confereSenha();" minlength="6" maxlength="15"><br><br>
+                <h3>A senha deve conter no mínimo 6 caracteres!</h3><br>
+                <!--Botões-->
+                <input type="submit" value='SALVAR' class="input_btn"><br><br><br>
+                <input type="button" value='CANCELAR' class="input_btn" />
+            </form>
+        </section>
+    </conteiner>
+
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+</body>
+
+</html>

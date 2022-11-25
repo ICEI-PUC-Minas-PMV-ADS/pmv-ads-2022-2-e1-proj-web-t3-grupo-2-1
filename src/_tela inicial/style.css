@@ -38,6 +38,7 @@ aside {
     grid-area: conteudo;
     font-size: 8pt;
     margin-left: -20%;
+    margin-top: -15%;
 }
 
 /*Estilo dos inputs*/
@@ -62,81 +63,37 @@ form input {
 
 /*Estilo h1*/
 h1 {
-    font-size: 30pt;
-    
+    font-size: 30pt;    
 }
 
 /*MENU VISIVEIS*/
 .menu {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
-.menu ul {
-    list-style: none;
-}
 
 .menu li {
-    list-style: none;
-    width: 180px;
-    height: auto;
-    padding: 0;
-    margin: 0;
-    position: relative;
-    border-bottom: rgb(148, 107, 87) 1px inset;
+  width: 140px;
+  height: auto;
+  padding: 2;
+  margin: 2%;
+  position: relative;
+  border-bottom: rgb(148, 107, 87) 1px inset;
+  list-style: none;
+  text-align: left;
 }
 
-.menu li ul {
-    width: 180px;
-    height: auto;
-    padding: 0;
-    margin: 0;
-    border-left: rgb(148, 107, 87) CCCCC 1px inset;
-    display: none;
-    position: absolute;
-    left: 180px;
-    top: 0;
-}
 
 /*nível inferior do menu com display: none*/
-
 .menu a {
-    display: block;
-    text-decoration: none;    
-    padding: 7px;
-    background-color: rgb(234, 228, 223);
-    ;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    font-weight: 400;
-    color: rgb(148, 107, 87);
-    font-weight: bolder;
-}
-
-.menu a:hover {
-    background-color: rgb(234, 228, 223);
-    text-decoration: none;
-    color: black
-}
-
-/* para o IE não criar margens*/
-* html ul li {
-    float: left;
-    height: 1%;
-}
-
-* html ul li a {
-    height: 1%;
-}
-
-/*End */
-
-.menu li:hover ul,
-li.over ul {
-    display: block;
-}
-
-/*mostra nível inferior ao passar o cursor*/
-.menu li.btnultimo {
-    border-bottom: none;
+  display: block;
+  text-decoration: none;
+  padding: 7px;
+  background-color: rgb(234, 228, 223);
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(148, 107, 87);
+  font-weight: bolder;
 }

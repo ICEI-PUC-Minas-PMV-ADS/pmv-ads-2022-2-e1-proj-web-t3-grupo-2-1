@@ -3,18 +3,18 @@ $("#cep").blur(function () {
   var cep = this.value;
 
   if (cep.length != 8) {
-      return false;
+    return false;
   }
 
   var url = "https://viacep.com.br/ws/" + cep + "/json/";
 
   $.getJSON(url, function (dadosRetorno) {
-      try {
-          $("#m-endereco").val(dadosRetorno.logradouro);
-          $("#m-bairro").val(dadosRetorno.bairro);
-          $("#m-cidade").val(dadosRetorno.localidade);
-          $("#m-estado").val(dadosRetorno.uf);
-      } catch (ex) { }
+    try {
+      $("#m-endereco").val(dadosRetorno.logradouro);
+      $("#m-bairro").val(dadosRetorno.bairro);
+      $("#m-cidade").val(dadosRetorno.localidade);
+      $("#m-estado").val(dadosRetorno.uf);
+    } catch (ex) { }
   });
 });
 //Fim da função de pesquisa do CEP
@@ -30,7 +30,9 @@ let itens
 let id
 
 function openModal(edit = false, index = 0) {
+  
   modal.classList.add('active')
+  
 
   modal.onclick = e => {
     if (e.target.className.indexOf('modal-container') !== -1) {
@@ -43,13 +45,13 @@ function openModal(edit = false, index = 0) {
     semail.value = itens[index].email
     stelefone.value = itens[index].telefone
     id = index
-    
+
   } else {
     sNome.value = ''
     semail.value = ''
     stelefone.value = ''
   }
-  
+
 }
 
 function editItem(index) {
@@ -81,7 +83,7 @@ function insertItem(item, index) {
 }
 
 btnSalvar.onclick = e => {
-  
+
   if (sNome.value == '' || semail.value == '' || stelefone.value == '') {
     return
   }
@@ -93,10 +95,10 @@ btnSalvar.onclick = e => {
     itens[id].email = semail.value
     itens[id].telefone = stelefone.value
   } else {
-    itens.push({'nome': sNome.value, 'email': semail.value, 'telefone': stelefone.value})
+    itens.push({ 'nome': sNome.value, 'email': semail.value, 'telefone': stelefone.value })    
   }
 
-  setItensBD()
+  setItensBD()  
 
   modal.classList.remove('active')
   loadItens()
@@ -116,3 +118,20 @@ const getItensBD = () => JSON.parse(localStorage.getItem('dbfunc')) ?? []
 const setItensBD = () => localStorage.setItem('dbfunc', JSON.stringify(itens))
 
 loadItens()
+
+
+function limpar() {
+  document.getElementById('m-nome').value = "";
+  document.getElementById('m-email').value = "";
+  document.getElementById('m-telefone').value = "";
+  document.getElementById('m-cpf').value = "";
+  document.getElementById('m-dataNascimento').value = "";
+  document.getElementById('sexo').value = ""; 
+  document.getElementById('cep').value = ""; 
+  document.getElementById('m-endereco').value = "";  
+  document.getElementById('m-numero').value = "";
+  document.getElementById('m-complemento').value = "";
+  document.getElementById('m-bairro').value = "";
+  document.getElementById('m-cidade').value = "";
+  document.getElementById('m-estado').value = "";
+}

@@ -21,13 +21,15 @@
         </div>
 
         <section class="conteudo">
-            <form>
+            <form onsubmit="senhaOK()">
                 <!--Campos de redefinição da senha.-->
-                <input type="text"  class="input_text" placeholder="Nova senha" /><br><br>
-                <input type="text"  class="input_text" placeholder="Confirmar senha" /><br><br>
-                
+                <input type="password" name="senha" class="input_password" placeholder="Nova senha" required minlength="6"
+                    onchange="confereSenha()" /><br><br>
+                <input type="password" name="confirma" class="input_text" placeholder="Confirmar senha" required minlength="6"
+                    onchange="confereSenha()" /><br><br>
+
                 <!--Botões-->
-                <input type="button" value="SALVAR" class="input_btn" onclick="salvar()" /><br><br>                
+                <input type="submit" value="SALVAR" class="input_btn" onclick="salvar()" /><br><br>
             </form>
         </section>
     </conteiner>

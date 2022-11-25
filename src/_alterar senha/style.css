@@ -5,7 +5,7 @@
     padding: 0;
 }
 
-/*Estilo padrão*/
+/*Estilo body*/
 body {
     background-color: rgb(234, 228, 223);
     font-family: Century Gohtic, sans-serif;
@@ -22,19 +22,16 @@ body {
         ". conteudo";
 }
 
-/*Estilo do logo*/
 .cabecalho {
     grid-area: logo;
 }
 
-/*Estilo do título*/
 .titulo {
     grid-area: titulo;
     margin-left: 6%;
     margin-top: 10%;   
 }
 
-/*Estilo do conteúdo.*/
 .conteudo {
     grid-area: conteudo;
     font-size: 8pt;
@@ -58,4 +55,9 @@ form input {
     border-radius: 5px;
     color: white;
     font-size: 10pt;
+}
+
+h3 {
+    font-size: 9pt;
+    margin-left: 3%;        
 }
