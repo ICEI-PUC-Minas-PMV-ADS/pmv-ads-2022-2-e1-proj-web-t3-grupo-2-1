@@ -121,7 +121,7 @@ Abra um navegador de Internet e informe a seguinte URL:
 
 ### Tela página inicial
 
-A tela inicial permite nvagação pelas funcionalides de cadastro de clientes e financeiro.
+A tela inicial permite a navegação pelas funcionalides de cadastro de clientes e financeiro.
 
 Requisitos atendidos:
 
@@ -152,9 +152,9 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: 
 
 
-### Tela - Esqueceu a senha
+### Tela - Alterar a senha
 
-A tela de "Esqueceu a senha" permite ao usuário alterar a senha, para isso ele deve informar a senha atual.
+A tela de "Alterar a senha" permite ao usuário alterar a senha, para isso ele deve informar a senha atual.
 
 Requisitos atendidos:
 
