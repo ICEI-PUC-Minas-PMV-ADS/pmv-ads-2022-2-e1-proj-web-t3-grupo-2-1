@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-### Tela HOMEPAGE / Log-in
+### Tela - HOMEPAGE / Log-in
 
 A tela de login é a tela principal do sistema e realiza a autenticação dos usuários do site por meio do usuário (CNPJ OU CPF) e senha. É a primeira funcionalidade exibida pelo site.
 
@@ -27,7 +27,7 @@ Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-### Tela Esqueci minha senha
+### Tela - Esqueci minha senha
 
 A tela de recuperação de senha permite ao usuário recuperar a senha em caso de esquecimento. É necessário informar o CNPJ ou CPF. Ela aparece quando o usuário clica na opção na tela de login. Basta informar os dados para receber uma nova senha por e-mail.
 
@@ -89,7 +89,7 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: 
 
 
-### Tela cadastro de usuário
+### Tela - cadastro de usuário
 
 A tela de cadastro de usuários permite o cadastro de um novo usuário para o site. Ela aparece quando o usuário clica na opção na tela de login. Basta informar os dados solicitados para finalizar o cadastro.
 
@@ -119,7 +119,7 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: 
 
 
-### Tela página inicial
+### Tela - página inicial
 
 A tela inicial permite a navegação pelas funcionalides de cadastro de clientes e financeiro.
 
