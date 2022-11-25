@@ -27,9 +27,9 @@ Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-`Tela - Esqueci Minha Senha`
+### Tela Esqueci minha senha
 
-A tela de recuperação de senha permite ao usuário recuperar a senha em caso de esquecimento. É necessário informar o CNPJ ou CPF.
+A tela de recuperação de senha permite ao usuário recuperar a senha em caso de esquecimento. É necessário informar o CNPJ ou CPF. Ela aparece quando o usuário clica na opção na tela de login. Basta informar os dados para receber uma nova senha por e-mail.
 
 Requisitos atendidos:
 
@@ -56,11 +56,9 @@ Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-A tela "Esqueci minha senha" aparece quando o usuário clica na opção na tela de login. Basta informar os dados para receber uma nova senha por e-mail.
+### Tela cadastro de usuário
 
-`Tela - Cadastro de usuários`
-
-A tela de cadastro de usuários permite o cadastro de um novo usuário para o site. 
+A tela de cadastro de usuários permite o cadastro de um novo usuário para o site. Ela aparece quando o usuário clica na opção na tela de login. Basta informar os dados solicitados para finalizar o cadastro.
 
 Requisitos atendidos:
 
@@ -87,7 +85,6 @@ Instruções de acesso:
 
 Abra um navegador de Internet e informe a seguinte URL: 
 
-A tela "Cadastro de usuário" aparece quando o usuário clica na opção na tela de login. Basta informar os dados solicitados para finalizar o cadastro.
 
 
 
