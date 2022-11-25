@@ -119,6 +119,72 @@ Instruções de acesso:
 Abra um navegador de Internet e informe a seguinte URL: 
 
 
+### Tela página inicial
+
+A tela inicial permite nvagação pelas funcionalides de cadastro de clientes e financeiro.
+
+Requisitos atendidos:
+
+- RF-002
+- RF-003
+
+Artefatos da funcionalidade
+
+- index.html
+
+- style.css
+
+- script.js
+
+- logo.png
+
+- engrenagem.png
+
+
+Estrutura de Dados
+
+Disponível em:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_tela%20inicial
+
+Instruções de acesso:
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+
+### Tela - Esqueceu a senha
+
+A tela de "Esqueceu a senha" permite ao usuário alterar a senha, para isso ele deve informar a senha atual.
+
+Requisitos atendidos:
+
+- RF-001
+
+Artefatos da funcionalidade
+
+- index.html
+
+- style.css
+
+- script.js
+
+- logo.png
+
+- engrenagem.png
+
+Estrutura de Dados
+
+Disponível em:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_alterar%20senha
+
+Instruções de acesso:
+
+Abra um navegador de Internet e informe a seguinte URL: 
+
+
+
+
 
 
 
