@@ -30,7 +30,7 @@ Artefatos da funcionalidade
 - style.css
 - script.js
 - logo.png
-- engrenagem.png
+
 
 Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_esqueceu%20senha
 
@@ -50,7 +50,7 @@ Artefatos da funcionalidade
 - style.css
 - script.js
 - logo.png
-- engrenagem.png
+
 
 Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_redefinir%20senha
 
@@ -90,7 +90,7 @@ Artefatos da funcionalidade
 - style.css
 - script.js
 - logo.png
-- engrenagem.png
+
 
 
 Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_tela%20inicial
@@ -111,7 +111,7 @@ Artefatos da funcionalidade
 - style.css
 - script.js
 - logo.png
-- engrenagem.png
+
 
 Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_alterar%20senha
 
@@ -131,7 +131,7 @@ Artefatos da funcionalidade:
 - style.css
 - script.js
 - logo.png
-- radix.jpg
+
 
 Estrutura de dados disponivel em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cadastro%20de%20usu%C3%A1rio
 
@@ -151,7 +151,7 @@ Artefatos da funcionalidade:
 - style.css
 - script.js
 - logo.png
-- radix.jpg
+
 
 Estrutura de dados disponivel em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cliente
 
@@ -171,7 +171,6 @@ Artefatos da funcionalidade:
 - style.css
 - script.js
 - logo.png
-- radix.jpg
 - despesa.png
 - money.png
 - receita.png
