@@ -17,7 +17,6 @@ $("#cep").blur(function () {
     } catch (ex) { }
   });
 });
-//Fim da função de pesquisa do CEP
 
 const modal = document.querySelector('.modal-container')
 const tbody = document.querySelector('tbody')
@@ -29,17 +28,20 @@ const btnSalvar = document.querySelector('#btnSalvar')
 let itens
 let id
 
+//Função para abrir o formulário
 function openModal(edit = false, index = 0) {
   
   modal.classList.add('active')
   
 
+ //Função que desabilita o modal em caso de clique fora da área do modal
   modal.onclick = e => {
     if (e.target.className.indexOf('modal-container') !== -1) {
       modal.classList.remove('active')
     }
   }
 
+  //Condição para edição de cadastro
   if (edit) {
     sNome.value = itens[index].nome
     semail.value = itens[index].email
@@ -54,17 +56,20 @@ function openModal(edit = false, index = 0) {
 
 }
 
+//Função de edição de itens
 function editItem(index) {
 
   openModal(true, index)
 }
 
+//Função de exclusão de itens
 function deleteItem(index) {
   itens.splice(index, 1)
   setItensBD()
   loadItens()
 }
 
+//Função que insere o item e o exibe na tabela
 function insertItem(item, index) {
   let tr = document.createElement('tr')
 
@@ -82,6 +87,7 @@ function insertItem(item, index) {
   tbody.appendChild(tr)
 }
 
+//Função do botão salvar
 btnSalvar.onclick = e => {
 
   if (sNome.value == '' || semail.value == '' || stelefone.value == '') {
@@ -105,6 +111,7 @@ btnSalvar.onclick = e => {
   id = undefined
 }
 
+//Função que carrega os itens do localStorage
 function loadItens() {
   itens = getItensBD()
   tbody.innerHTML = ''
@@ -114,12 +121,13 @@ function loadItens() {
 
 }
 
+//Constantes GET e SET do banco de dados
 const getItensBD = () => JSON.parse(localStorage.getItem('dbfunc')) ?? []
 const setItensBD = () => localStorage.setItem('dbfunc', JSON.stringify(itens))
 
 loadItens()
 
-
+//Função que limpa os inputs do formulário
 function limpar() {
   document.getElementById('m-nome').value = "";
   document.getElementById('m-email').value = "";

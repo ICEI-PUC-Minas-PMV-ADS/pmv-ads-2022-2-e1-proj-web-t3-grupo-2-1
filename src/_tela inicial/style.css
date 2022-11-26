@@ -78,6 +78,7 @@ h1 {
   height: auto;
   padding: 2;
   margin: 2%;
+  margin-left: -0.5%;
   position: relative;
   border-bottom: rgb(148, 107, 87) 1px inset;
   list-style: none;

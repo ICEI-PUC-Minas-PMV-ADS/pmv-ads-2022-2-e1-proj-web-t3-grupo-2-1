@@ -38,8 +38,8 @@ body {
     margin-top: 10%;
 }
 
-/*Estilo botão*/
-.botao {
+/*Estilo botões*/
+.input_btn {
     background-color: rgb(148, 107, 87);
     border: 1px solid rgb(234, 228, 223);
     border-radius: 5px;
@@ -58,7 +58,9 @@ form input {
     font-size: 12pt;
 }
 
+/*Estilo h3*/
 h3 {
     font-size: 9pt;
     margin-left: 3%;        
 }
+

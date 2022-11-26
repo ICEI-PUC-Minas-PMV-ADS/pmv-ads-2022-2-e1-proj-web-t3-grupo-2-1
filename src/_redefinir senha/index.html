@@ -9,17 +9,18 @@
 </head>
 
 <body>
-    <!--Logo.-->
+    <!--Logo-->
     <conteiner class="conteiner">
         <header class="cabecalho">
             <img src="_img/logo.png">
         </header>
 
-        <!--Título.-->
+        <!--Título do conteúdo-->
         <div class="titulo">
             <h1>Redefinir senha</h1>
         </div>
 
+        <!--Conteúdo-->
         <section class="conteudo">
             <form onsubmit="senhaOK()">
                 <!--Campos de redefinição da senha.-->
@@ -28,7 +29,7 @@
                 <input type="password" name="confirma" class="input_text" placeholder="Confirmar senha" required minlength="6"
                     onchange="confereSenha()" /><br><br>
 
-                <!--Botões-->
+                <!--Botão-->
                 <input type="submit" value="SALVAR" class="input_btn" onclick="salvar()" /><br><br>
             </form>
         </section>

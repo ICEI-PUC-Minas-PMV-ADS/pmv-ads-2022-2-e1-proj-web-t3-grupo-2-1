@@ -7,6 +7,7 @@
   font-family: 'Poppins', sans-serif;
 }
 
+/*Estilo geral*/
 body {
   background-color: rgb(234, 228, 223);
   font-family: Century Gohtic, sans-serif;
@@ -61,6 +62,7 @@ button {
   word-break: break-all;
 }
 
+/*Estilo do modal do formulário de*/
 #new {
   font-size: 16px;
   padding: 8px;
@@ -267,16 +269,10 @@ td button i:first-child {
   justify-self: start;
 }
 
-
-
-/*MENU VISIVEIS*/
+/*Estilo menu*/
 .menu {
   margin: 0;
   padding: 0;
-}
-
-.menu ul {
-  list-style: none;
 }
 
 .menu li {
@@ -290,9 +286,6 @@ td button i:first-child {
   text-align: left;
 
 }
-
-
-/*nível inferior do menu com display: none*/
 
 .menu a {
   display: block;
@@ -313,12 +306,8 @@ td button i:first-child {
   color: black
 }
 
-.menu li:hover ul,
-li.over ul {
-  display: block;
-}
-
-/*mostra nível inferior ao passar o cursor*/
-.menu li.btnultimo {
-  border-bottom: none;
+/*Estilo select*/
+select {
+  border-radius: 5px;
+  width: 150px;
 }

@@ -31,19 +31,19 @@
         <li><a href="#">Financeiro</a>
     </aside>
     </div>
-
+   
+    <!--Imputs de informação fianceira-->
     <section class="extrato">
-      <h1>Extrato financeiro</h1>
+      <!--Título do conteúdo-->
+      <h1>Extrato financeiro</h1>      
       <div class="saldo">
         <img src="img\money.png" alt=""><br>
         <input type="number" id="saldo" disabled=""><br><br>
       </div>
-
       <div class="receita">
         <img src="img\receita.png"><br>
         <input type="number" id="receita" disabled=""><br><br>
       </div>
-
       <div class="despesa"> <img src="img\despesa.png"> <br>
         <input type="number" id="despesa" disabled=""><br><br>
       </div>
@@ -58,6 +58,7 @@
           <button onclick="openModal()" id="new" data-target="modal">Cadastrar movimentação</i></button>
         </div>
 
+        <!--Tabela-->
         <div class="divTable">
           <table>
             <thead>
@@ -78,7 +79,7 @@
           <div class="modal">
 
             <form>
-              <label> Tipo: </label><select id="m-tipo">
+              <label> Tipo: </label> <select id="m-tipo">
                 <option></option>
                 <option value="Receita">Receita</option>
                 <option value="Despesa">Despesa</option>

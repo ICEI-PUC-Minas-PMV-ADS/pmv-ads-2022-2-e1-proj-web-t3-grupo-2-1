@@ -18,18 +18,18 @@ button {
 }
 
 .extrato {
-  width: 90%; 
+  width: 90%;
   display: grid;
   grid-column: 33% 33% 33%;
   grid-row: auto;
-  justify-items: center;  
+  justify-items: center;
   grid-template-areas: "titulo . ."
-  "saldo receita despesa"; 
+    "saldo receita despesa";
   border-radius: 5px;
   margin-left: 2%;
   margin-top: 5%;
   padding-top: 2%;
-  background: white  
+  background: white
 }
 
 .extrato h1 {
@@ -51,6 +51,7 @@ button {
 .saldo {
   grid-area: saldo;
 }
+
 .receita {
   grid-area: receita;
 }
@@ -356,7 +357,6 @@ td button i:first-child {
   text-decoration: none;
   padding: 7px;
   background-color: rgb(234, 228, 223);
-  ;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: 400;
@@ -370,12 +370,8 @@ td button i:first-child {
   color: black
 }
 
-.menu li:hover ul,
-li.over ul {
-  display: block;
-}
-
-/*mostra nível inferior ao passar o cursor*/
-.menu li.btnultimo {
-  border-bottom: none;
+/*Estilo select*/
+select {
+  border-radius: 5px;
+  width: 150px;
 }

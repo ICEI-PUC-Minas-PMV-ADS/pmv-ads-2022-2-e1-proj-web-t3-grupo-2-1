@@ -5,14 +5,14 @@
     padding: 0;
 }
 
-/*Estilo body*/
+/*Estilo geral*/
 body {
     background-color: rgb(234, 228, 223);
     font-family: Century Gohtic, sans-serif;
     color: rgb(148, 107, 87);
 }
 
-/*Divisão do conteiner em grid.*/
+/*Posicionamento do conteiner*/
 .conteiner {
     width: 98%;
     display: grid;
@@ -22,16 +22,19 @@ body {
         ". conteudo";
 }
 
+/*Posicionamento do cabeçalho*/
 .cabecalho {
     grid-area: logo;
 }
 
+/*Posicionamento do titulo*/
 .titulo {
     grid-area: titulo;
     margin-left: 6%;
-    margin-top: 10%;   
+    margin-top: 10%;
 }
 
+/*Posicionamento do conteúdo*/
 .conteudo {
     grid-area: conteudo;
     font-size: 8pt;
@@ -57,7 +60,8 @@ form input {
     font-size: 10pt;
 }
 
+/*Estilo h3*/
 h3 {
     font-size: 9pt;
-    margin-left: 3%;        
+    margin-left: 3%;
 }
