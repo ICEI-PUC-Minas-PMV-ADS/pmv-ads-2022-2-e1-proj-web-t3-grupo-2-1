@@ -2,17 +2,13 @@
 
 ## Registro de Testes - Cadastrar Usuário
 Resultado: Após inserir as informações solicitadas como Nome, CPF, E-mail e senha, de acordo com as especificações dada pelo site, conseguimos cadastrar o usuário.
-
 ![cadastrarusuario_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058503-d7e6581a-4f1d-4321-a130-52fa5ee3dd91.gif)
 
 ## Registro de Testes - Alterar Senha
-
-Na tela principal, acesse Segurança > Alterar Senha;
-Informe a senha atual, a nova senha e confirme a nova senha. Clique em Salvar.
-Feito isso, basta clicar em Alterar Senha.
-
+Resultado: Ao inserir a senha atual e a senha nova, com mais de 6 caracteres, conseguimos alterar a senha com sucessso.
 ![alterar senha 2](https://user-images.githubusercontent.com/111783703/204058768-01b92c8b-5b54-427b-bc95-b6357977cf20.gif)
 
+Resultado: Ao tentar inserir senhas com menos de 6 caracteres, o site emite um alerta para que as especificações da senha, sejam seguidas.
 ![alterarsenha](https://user-images.githubusercontent.com/111783703/204111123-9ea069cd-a20b-4399-b59d-9aa91bc9b676.gif)
 
 ## Registro de Testes - Cadastrar Cliente
