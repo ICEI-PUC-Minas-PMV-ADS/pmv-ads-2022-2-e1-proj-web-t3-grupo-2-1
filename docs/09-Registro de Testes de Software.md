@@ -38,12 +38,11 @@ Resultado: Ao tentarmos recuperar a senha com e-mail e CPF/CNPJ com formatos inv
 ![esqueceuasenha](https://user-images.githubusercontent.com/111783703/204111132-63e38963-31fe-4ba9-bb39-47a4619a1acb.gif)
 
 ## Registro de Testes - Redefinir Senha
-Acesse a Central do Cliente;
-Digite seu nome de usuário e senha. Depois, clique em Entrar.
-Informe a senha atual e digite a nova senha.
-Confirme a nova senha e clique em Alterar
+Resultado: Ao inserirmos a senha nova com mais de 6 caracteres, obtivemos sucesso.
   
 ![redefinirsenha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058532-6989de34-6350-48fb-9e7c-1ca086dcf81e.gif)
+
+Resultado: Ao tentarmos redefinir a senha com menos de 6 caracteres, o site emite um alerta, exigindo que sejam seguidas as orientações exigidas, para a continuação do processo.
 
 ![redefinir senha](https://user-images.githubusercontent.com/111783703/204111135-5054e8de-fd4c-44b8-b229-c9b508c7aed5.gif)
 
