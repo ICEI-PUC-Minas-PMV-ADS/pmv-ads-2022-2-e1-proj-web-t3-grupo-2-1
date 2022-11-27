@@ -29,7 +29,7 @@ Resultado: Após cadastrar o valor da receita/despesa, o site já lista para o u
 ![cadastrarmovimentação_AdobeExpress333333333333333333333](https://user-images.githubusercontent.com/111783703/204059686-ef0aa993-1f63-4208-93a3-98706fe2997d.gif)
 
 ## Registro de Testes - Esqueceu a Senha
-Resultado: Ao inserirmos para a recuperação da senha, obtemos um alerta mostrando que o link de redefinição foi enviado para o e-mail.
+Resultado: Ao inserirmos os dados para a recuperação da senha, obtemos um alerta mostrando que o link de redefinição foi enviado para o e-mail cadastrado.
 
 ![esqueceuasenha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058526-846b7578-b40c-4b42-81ab-6991c6172ece.gif)
 
@@ -38,11 +38,11 @@ Resultado: Ao tentarmos recuperar a senha com e-mail e CPF/CNPJ com formatos inv
 ![esqueceuasenha](https://user-images.githubusercontent.com/111783703/204111132-63e38963-31fe-4ba9-bb39-47a4619a1acb.gif)
 
 ## Registro de Testes - Redefinir Senha
-Resultado: Ao inserirmos a senha nova com mais de 6 caracteres, obtivemos sucesso.
+Resultado: Ao inserirmos a senha nova com no mínimo 6 caracteres, obtivemos sucesso.
   
 ![redefinirsenha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058532-6989de34-6350-48fb-9e7c-1ca086dcf81e.gif)
 
-Resultado: Ao tentarmos redefinir a senha com menos de 6 caracteres, o site emite um alerta, exigindo que sejam seguidas as orientações exigidas, para a continuação do processo.
+Resultado: Ao tentarmos redefinir a senha com menos de 6 caracteres, o site emite um alerta, exigindo que sejam seguidas as orientações exigidas, para prosseguir com o  processo.
 
 ![redefinir senha](https://user-images.githubusercontent.com/111783703/204111135-5054e8de-fd4c-44b8-b229-c9b508c7aed5.gif)
 
