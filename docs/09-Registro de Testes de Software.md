@@ -19,16 +19,21 @@ Resultado: Ao tentar inserir senhas com menos de 6 caracteres, o site emite um a
 ![alterarsenha](https://user-images.githubusercontent.com/111783703/204111123-9ea069cd-a20b-4399-b59d-9aa91bc9b676.gif)
 
 ## Registro de Testes - Cadastrar Cliente
-  
+Resultado: Depois de inserir todos o dados válidos do cliente, conseguimos visualiza-lo na listagem de clientes.
+ 
 ![cadastrarcliente_AdobeExpress33333333333333](https://user-images.githubusercontent.com/111783703/204059614-c7a927ca-7bb8-4a2b-907e-3124139c9eb9.gif)
+
 ## Registro de Testes - Cadastrar Movimentação
+Resultado: Após cadastrar o valor da receita/despesa, o site já lista para o usuário.
 
 ![cadastrarmovimentação_AdobeExpress333333333333333333333](https://user-images.githubusercontent.com/111783703/204059686-ef0aa993-1f63-4208-93a3-98706fe2997d.gif)
 
 ## Registro de Testes - Esqueceu a Senha
-Digite seu e-mail,cpf, basta cadastra-lo e em seguida clique em “Redefinir a senha”
-clique em salvar.
+Resultado: Ao inserirmos para a recuperação da senha, obtemos um alerta mostrando que o link de redefinição foi enviado para o e-mail.
+
 ![esqueceuasenha_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058526-846b7578-b40c-4b42-81ab-6991c6172ece.gif)
+
+Resultado: Ao tentarmos recuperar a senha com e-mail e CPF/CNPJ com formatos inválidos, o site emite um alerta recusando prosseguir com o processo, até que sejam seguidas as formatações exigidas.
 
 ![esqueceuasenha](https://user-images.githubusercontent.com/111783703/204111132-63e38963-31fe-4ba9-bb39-47a4619a1acb.gif)
 
