@@ -4,7 +4,11 @@
 Resultado: Após inserir as informações solicitadas como Nome, CPF, E-mail e senha, de acordo com as especificações dada pelo site, conseguimos cadastrar o usuário.
 
 ![cadastrarusuario_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058503-d7e6581a-4f1d-4321-a130-52fa5ee3dd91.gif)
+
+Resultado: Ao tentar cadastar um usuário com informações diferentes das exigidas pelo site, o mesmo emite um alerta, recusando o cadastro até que as 
+
 ![cadastro](https://user-images.githubusercontent.com/111783703/204111126-0b509f65-6ab0-4f82-83e1-e0404412a378.gif)
+
 ## Registro de Testes - Alterar Senha
 Resultado: Ao inserir a senha atual e a senha nova, com mais de 6 caracteres, conseguimos alterar a senha com sucessso.
 
