@@ -1,16 +1,16 @@
 # Registro de Testes de Software
 
 ## Registro de Testes - Cadastrar Usuário
-Para cadastro de usúario são solicitado alguns campos ogrigatório como: nome,sobrenome,login e senha.
-Caso o login esteja incorreto, o sistema informa e não permite acesso a
-página principal.
+Resultado: Após inserir as informações solicitadas como Nome, CPF, E-mail e senha, de acordo com as especificações dada pelo site, conseguimos cadastrar o usuário.
 
 ![cadastrarusuario_AdobeExpress](https://user-images.githubusercontent.com/111783703/204058503-d7e6581a-4f1d-4321-a130-52fa5ee3dd91.gif)
 
 ## Registro de Testes - Alterar Senha
+
 Na tela principal, acesse Segurança > Alterar Senha;
 Informe a senha atual, a nova senha e confirme a nova senha. Clique em Salvar.
 Feito isso, basta clicar em Alterar Senha.
+
 ![alterar senha 2](https://user-images.githubusercontent.com/111783703/204058768-01b92c8b-5b54-427b-bc95-b6357977cf20.gif)
 
 ![alterarsenha](https://user-images.githubusercontent.com/111783703/204111123-9ea069cd-a20b-4399-b59d-9aa91bc9b676.gif)
