@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Alterar Senha</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="alterar_senha.css" />
+</head>
+
+<body>
+
+    <conteiner class="conteiner">
+        <!--Logo-->
+        <header class="cabecalho">
+            <img src="_img/logo.png">
+        </header>
+
+        <!--Título do conteúdo-->
+        <div class="titulo">
+            <h1>Alterar senha</h1>
+        </div>
+
+        <!--Conteúdo-->
+        <section class="conteudo">
+            <!--Formulário de alteração de senha-->
+            <form onsubmit="senhaOK()">
+                <input type="password" name="atual" class="input_password" placeholder="Senha Atual" required
+                    minlength="6" /><br><br><br><br>
+
+                <input type="password" name="senha" class="input_password" placeholder="Nova senha" required
+                    minlength="6" onchange="confereSenha()" /><br><br><br><br>
+
+                <input type="password" name="confirma" class="input_text" placeholder="Confirmar senha" required
+                    minlength="6" onchange="confereSenha()" /><br><br><br><br>
+
+                <input type="submit" value="SALVAR"  class="input_btn" /><br><br><br><br>
+
+                <input type="button" value="CANCELAR" onclick="sair()" class="input_btn" /><br><br>
+
+
+
+            </form>
+
+        </section>
+    </conteiner>
+
+    <script src="alterar_senha.js"></script>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+</body>
+
+</html>

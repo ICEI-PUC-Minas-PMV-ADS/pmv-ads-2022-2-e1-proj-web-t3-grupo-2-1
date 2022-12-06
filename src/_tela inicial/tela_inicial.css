@@ -18,7 +18,7 @@ body {
     display: grid;
     grid-template-columns: 40% 60%;
     grid-template-rows: auto;
-    grid-template-areas: "logo . "
+    grid-template-areas: "logo itens "
         "menu ."
         ". conteudo";
 }
@@ -32,6 +32,11 @@ aside {
     grid-area: menu;
 }
 
+.itens {
+    margin-top: 2%;
+    justify-self: right;
+    grid-area: itens;    
+}
 
 /*Estilo do conteúdo.*/
 .conteudo {
@@ -59,6 +64,12 @@ form input {
     border-radius: 5px;
     color: white;
     font-size: 10pt;
+}
+
+.btn_itens {
+    background-color: rgb(234, 228, 223);
+    color: rgb(148, 107, 87);
+    border: 1px solid rgb(148, 107, 87);
 }
 
 /*Estilo h1*/
