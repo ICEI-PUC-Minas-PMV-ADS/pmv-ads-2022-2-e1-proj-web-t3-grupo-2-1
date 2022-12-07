@@ -1,21 +1,22 @@
-//Valida se os campos digitados estão corretos e retorna para a tela de login
-function validacaoOK() {
-    var email = document.getElementById('email');
-    var cpf_cnpj = document.getElementById('cpf_cnpj');
+//Valida os campos digitados
+function validacao() {
+    const email = document.querySelector('input[id=email]');
+    const cpfCnpj = document.querySelector('input[id=cpf_cnpj]');
 
-    if (email.value === 'radix@radix.com.br' && cpf_cnpj.value === '12345678912' || email.value === 'radix@radix.com.br' && cpf_cnpj.value === '12345678912345') {
-        redefinicaoOK();
+    if (email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912' ||
+        email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912345') {
+        cpfCnpj.setCustomValidity('');
+        dadosOk();
         sair();
-
     } else {
-        alert('E-mail ou CPF/CNPJ não encontrados!')
-        document.getElementById('email').value = '';
-        document.getElementById('cpf_cnpj').value = '';
+        cpfCnpj.setCustomValidity('Email ou CPF/CNPJ não encontrado!');
     }
+
 }
 
-function redefinicaoOK() {
-    alert('E-mail de refinição enviado com sucesso!');
+//Alerta em caso de sucesso
+function dadosOk() {
+    alert('E-mail de verificação enviado com sucesso!');
 }
 
 //Retorna para a tela de login
