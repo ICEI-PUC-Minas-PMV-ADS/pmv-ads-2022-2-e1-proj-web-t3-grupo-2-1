@@ -20,13 +20,13 @@
         </div>
         <!--Conteúdo-->
         <section class="conteudo">
-            <form>
+            <form onsubmit="validacaoOK()">
                 <!--Campos para envio do link de recuperação.-->
                 <input type="email" id="email" class="input_text" placeholder="E-mail" required /><br><br>
                 <input type="text" id="cpf_cnpj" class="input_text" minlength="11" maxlength="14" size="14"
                     placeholder="CPF/CNPJ (Apenas números)" required /><br><br>
                 <!--Botão-->
-                <input type="button" value="ENVIAR" onclick="validacaoOK()" class="input_btn" /><br><br>
+                <input type="submit" value="ENVIAR"  class="input_btn" /><br><br>
                 
                 <input type="button" value="CANCELAR" onclick="sair()" class="input_btn" /><br><br>
             </form>
