@@ -45,37 +45,29 @@ Tela de inicial
 
 Tela que abrange todas as visualizações iniciais do site e as funcionalidade: clientes e financeiro.
 
-
+![image](https://user-images.githubusercontent.com/111931438/206778946-8be27c70-2dfb-4b6b-906f-1455f812b515.png)
 
 Tela de cadastro de cliente
 
 Este layout é utilizado para solicitar o preenchimento dos dados para cadastro de cliente.
 
-![image](https://user-images.githubusercontent.com/111931438/198909258-f2ed41cc-c492-4152-901e-8ff6fa975e0e.png)
+![image](https://user-images.githubusercontent.com/111931438/206777645-fa34191d-7bb2-4ec7-b00b-31ed8b0319be.png)
 
+Este layout é utilizado para editar ou excluir os dados dos cliente já cadastrado.
 
-Tela de listagem de clientes
-
-Este layout é utilizado para listar todos os clientes cadastrados.
-
-![image](https://user-images.githubusercontent.com/111931438/198907877-5b75bf17-f4e4-4c75-868e-a5382f0bf3f4.png)
-
-Tela de editar cadastro de clientes
-
-Este layout é utilizado para editar dados dos cliente já cadastrado.
-
-![image](https://user-images.githubusercontent.com/111931438/198909281-e15dd448-1df8-4d5c-8a04-eaf9ba612136.png)
+![image](https://user-images.githubusercontent.com/111931438/206778361-268251c6-dc5a-410a-afed-26337d9dcb3e.png)
 
 Tela de cadastro de receita ou despesa
 
 Este layout é utilizado para cadastrar todas as movimentações financeiras.
 
-![image](https://user-images.githubusercontent.com/111931438/198907989-370a9c1f-d71d-48a4-a380-46167bacfbf5.png)
+![image](https://user-images.githubusercontent.com/111931438/206778796-219bf1fe-87c3-4a29-a460-24e53c2008c8.png)
 
 Tela de extrato financeiro
 
 Local onde é exibido o extrato financeiro.
 
+![image](https://user-images.githubusercontent.com/111931438/206778849-c30c4c99-b9df-4111-a1f9-5a4eaf0014d6.png)
 
 
 Tela de esqueceu senha
