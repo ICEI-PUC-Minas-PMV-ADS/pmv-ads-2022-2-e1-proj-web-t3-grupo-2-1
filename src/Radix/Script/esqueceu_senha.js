@@ -6,7 +6,7 @@ function validacao() {
     if (email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912' ||
         email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912345') {
         cpfCnpj.setCustomValidity('');
-        
+        dadosOk();
         sair();
     } else {
         cpfCnpj.setCustomValidity('Email ou CPF/CNPJ não encontrado!');
@@ -16,10 +16,10 @@ function validacao() {
 
 //Alerta em caso de sucesso
 function dadosOk() {
-    alert('Foi enviado as orientações de reset de senha para o e-mail cadastrado');
+    alert('E-mail de verificação enviado com sucesso!');
 }
 
 //Retorna para a tela de login
 function sair() {
-    document.location.href = 'login.html';
+    document.location.href = 'https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/login.html';
 }

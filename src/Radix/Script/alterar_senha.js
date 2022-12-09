@@ -5,8 +5,9 @@ function confereSenha() {
 
     if (confirma.value === senha.value) {
         confirma.setCustomValidity('');
-        senhaOK(); 
-        sair();       
+        senhaOK();
+        document.location.href = 'https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/tela_inicial.html';
+
     } else {
         confirma.setCustomValidity('As senhas não conferem');
 
@@ -16,10 +17,9 @@ function confereSenha() {
 //Função que gera um alerta de senha redefinida
 function senhaOK() {
     alert("Senha redefinida com sucesso!")
-
 }
 
 //Função que cancela a operação e redireciona para a tela inicial
 function sair() {
-    document.location.href = 'tela_inicial.html';
+    document.location.href = 'https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/tela_inicial.html';
 }
