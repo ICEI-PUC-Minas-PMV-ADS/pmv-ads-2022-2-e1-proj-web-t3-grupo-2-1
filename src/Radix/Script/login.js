@@ -11,3 +11,4 @@ function entrar() {
         document.getElementById('senha').value = '';
     }
 }
+
