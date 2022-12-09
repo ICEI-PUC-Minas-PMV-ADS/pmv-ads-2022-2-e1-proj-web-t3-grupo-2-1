@@ -72,6 +72,7 @@ Para realizar o controle de versões da aplicação utilizamos o Git e mantemos 
 
 O site utiliza a plataforma do Git Hub Pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
 (https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/login.html)
+
 A publicação do site no Git Hub Pages é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
 (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1)
 
