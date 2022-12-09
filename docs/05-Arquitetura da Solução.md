@@ -8,7 +8,8 @@ Nesta seção serão apresentados os detalhes técnicos da solução criada pela
 
 Os componentes que fazem parte da solução serão apresentados na Figura a baixo.
 
-![figura015](https://user-images.githubusercontent.com/111931438/194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6.png)
+![194447550-c2fc99f0-faaa-4efd-be21-52cd3f7c52e6](https://user-images.githubusercontent.com/111931438/206769572-e6d1b82d-6073-4159-b8b9-7d68d9941f61.png)
+
 <center>Figura - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
@@ -57,7 +58,7 @@ Caso opte por seguir pelo pefil do usuário, ele é redirecionado para a tela de
 
 Na figura abaixo , podemos exemplificar como a interação do usuário com o sistema vai ser conduzida.
 
-![nova1](https://user-images.githubusercontent.com/111931438/194776376-cfe6ce45-3a65-47c9-b363-71715bf2273e.png)
+![edição de imagens](https://user-images.githubusercontent.com/111931438/206770997-b8a2f7c9-719e-455c-9995-98ae8f6aa515.png)
 <center>Figura - Exemplificação da interação do usuário com o sistema</center>
 
 Acessando o navegador e digitando a URL, é feito uma solicitação ao servido de hospedagem Git Hub Pages que envie a página web construída através da IDE do VS Code onde é feito a junção do HTML (Estruturação) + CSS (Estilo) + JS (Funcionalidade). Dentro da página que será retornada é possível acessar o os menus clientes e financeiro.
