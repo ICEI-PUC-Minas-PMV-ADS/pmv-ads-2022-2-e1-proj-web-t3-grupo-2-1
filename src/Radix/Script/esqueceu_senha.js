@@ -6,7 +6,7 @@ function validacao() {
     if (email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912' ||
         email.value === 'radix@radix.com.br' && cpfCnpj.value === '12345678912345') {
         cpfCnpj.setCustomValidity('');
-        dadosOk();
+        
         sair();
     } else {
         cpfCnpj.setCustomValidity('Email ou CPF/CNPJ não encontrado!');
@@ -16,7 +16,7 @@ function validacao() {
 
 //Alerta em caso de sucesso
 function dadosOk() {
-    alert('E-mail de verificação enviado com sucesso!');
+    alert('Foi enviado as orientações de reset de senha para o e-mail cadastrado');
 }
 
 //Retorna para a tela de login

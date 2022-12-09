@@ -23,16 +23,16 @@
 
         <section class="conteudo">
             <!--Formulário de cadastro de usuário-->
-            <form onsubmit="senhaOK ()">
+            <form>
                 <input type="text" class="nome" required placeholder="Nome"><br><br>
                 <input type="text" class="cnpj" required minlength="11" maxlength="14" size="14"
                     onkeypress="return event.charCode >= 48 && event.charCode <= 57"
                     placeholder="CPF/CNPJ (Apenas números)"><br><br>
                 <input type="email" class="email" required placeholder="E-mail"><br><br>
                 <input type="password" class="senha" required placeholder="Nova Senha" minlength="6"
-                    onchange="confereSenha();"><br><br>
-                <input type="password" class="confirma" required placeholder="Confirme a senha"
-                    onchange="confereSenha();" minlength="6"><br><br>
+                    onchange="confereSenha()"><br><br>
+                <input type="password" class="confirma" required placeholder="Confirme a senha" minlength="6"
+                    onchange="confereSenha()"><br><br>
                 <h3>A senha deve conter no mínimo 6 caracteres!</h3><br>
 
                 <!--Botões-->

@@ -6,7 +6,7 @@ function entrar() {
         alert('Login efetuado com sucesso!')
         document.location.href = 'https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/tela_inicial.html';
     } else {
-        alert ('Usuário não')
+        alert ('Usuário não cadastrado')
         document.getElementById('cnpj_cpf').value = '';
         document.getElementById('senha').value = '';
     }
