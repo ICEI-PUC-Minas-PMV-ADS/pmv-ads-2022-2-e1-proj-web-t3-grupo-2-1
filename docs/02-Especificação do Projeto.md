@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-Larrissa dos Santos tem 35 anos, psicóloga e empreendedora na área da saúde. Tem como hobbie a meditação, a leitura e ama o contato com a natureza. Busca por meio de uma aplicação a resolução de contra-tempos da sua vida profissional, tais como o acompanhamento de informações de seus clientes e o controle das informações financeiras, que atualmente eram feitas de forma manual. 
+Larrissa dos Santos tem 35 anos, psicóloga e empreendedora na área da saúde. Tem como hobbie a meditação, leitura e ama os animais e o contato com a natureza. Busca por meio de uma aplicação a resolução de contra-tempos da sua vida profissional, tais como o acompanhamento de informações de seus clientes e o controle das informações financeiras, que atualmente eram feitas de forma manual. 
 
 ## Histórias de Usuários
 
@@ -28,8 +28,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O site deve apresentar na página principal: área de login (Usuário e senha), imagem com a logomarca, opção de cadastro de novo usuário e opção de esqueceu a senha. |     ALTA    | 
 |RF-002| O site deve apresentar uma tela de boas vindas |     MÉDIA   |
 |RF-003| O site deve conter um menu de funcionalidade com os intens Cliente e Financeiro que permita ao usuário navegar entre elas |     ALTA    |
-|RF-004| RF-004 - O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de novo clientes e a Listagem de clientes cadastrados. |     ALTA    |
-|RF-005| O site deve conter dentro do menu financeiro as seguintes funcionalidades: Cadastro de  movimentação financeira e histórico de movimentações financeiras |     ALTA    | 
+|RF-004| O site deve conter dentro do menu cliente as seguintes funcionalidades: Cadastro de novo clientes e a Listagem de clientes cadastrados. |     ALTA    |
+|RF-005| O site deve conter dentro do menu financeiro as seguintes funcionalidades: Cadastro de  movimentação financeira e histórico de movimentações financeiras já cadastrada |     ALTA    | 
 
 
 ### Requisitos não Funcionais
