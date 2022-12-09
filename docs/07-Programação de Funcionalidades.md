@@ -13,7 +13,7 @@ Artefatos da funcionalidade
 - script.js
 - logo.png
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_login
+Estrutura de Dados disponível em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/login.html
 
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
@@ -32,7 +32,7 @@ Artefatos da funcionalidade
 - logo.png
 
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_esqueceu%20senha
+Estrutura de Dados disponível em:https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/esqueceu_senha.html
 
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
@@ -52,8 +52,7 @@ Artefatos da funcionalidade
 - logo.png
 
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_redefinir%20senha
-
+Estrutura de Dados disponível em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/redefinir_senha.html
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
 
@@ -72,8 +71,7 @@ Artefatos da funcionalidade
 - logo.png
 
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cadastro%20de%20usu%C3%A1rio
-
+Estrutura de Dados disponível em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/cadastro_de_usuario.html
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
 
@@ -93,7 +91,7 @@ Artefatos da funcionalidade
 
 
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_tela%20inicial
+Estrutura de Dados disponível em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/tela_inicial.html
 
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
@@ -113,7 +111,7 @@ Artefatos da funcionalidade
 - logo.png
 
 
-Estrutura de Dados disponível em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_alterar%20senha
+Estrutura de Dados disponível em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/alterar_senha.html
 
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
@@ -133,31 +131,10 @@ Artefatos da funcionalidade:
 - logo.png
 
 
-Estrutura de dados disponivel em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cadastro%20de%20usu%C3%A1rio
+Estrutura de dados disponivel em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/cliente.html
 
 Instruções de acesso:
 - Abra um navegador de Internet e informe a seguinte URL: 
-
-
-### TELA - LISTAGEM DE CLIENTES 
-
-A tela de listagem de clientes permite que o usuário faça uma pesquisa de qualquer cliente na base de dados, os resultados serão retornados por ordem alfabética, na tela é possível clicar no botão de edição para alterar dados dos clientes cadastrados. 
-
-Requisitos atendidos: RF-003 e RF-004
-
-Artefatos da funcionalidade:
-
-- index.html
-- style.css
-- script.js
-- logo.png
-
-
-Estrutura de dados disponivel em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_cliente
-
-Instruções de acesso:
-- Abra um navegador de Internet e informe a seguinte URL:
-
 
 ### TELA - FINANCEIRO
 
@@ -176,10 +153,10 @@ Artefatos da funcionalidade:
 - receita.png
 - resultado.png
 
-Estrutura de dados disponivel em: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/tree/main/src/_extrato%20financeiro
+Estrutura de dados disponivel em: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/financeiro.html
 
 Instruções de acesso:
-- Abra um navegador de Internet e informe a seguinte URL:
+- Abra um navegador de Internet e informe a seguinte URL: https://marlloncas.github.io/pmv-ads-2022-2-e1-proj-web-t3-grupo-2-1/src/Radix/login.html
 
 
 
