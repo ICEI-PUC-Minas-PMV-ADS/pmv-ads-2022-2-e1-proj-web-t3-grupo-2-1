@@ -1,3 +1,6 @@
+![Logo](https://user-images.githubusercontent.com/111931438/206908644-4dcf2949-0e8b-41fc-83cc-de61948d066e.jpeg)
+
+
 # SOLUÇÃO PARA GESTÃO DE CONSULTÓRIO DE PSICOLOGIA Ψ
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
